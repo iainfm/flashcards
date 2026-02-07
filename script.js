@@ -1224,7 +1224,7 @@ const flashcard = document.getElementById('flashcard');
 const infinitiveEl = document.getElementById('infinitive');
 const translationEl = document.getElementById('translation');
 const conjugationsEl = document.getElementById('conjugations');
-const nextButton = document.getElementById('nextButton');
+// const nextButton = document.getElementById('nextButton');
 
 // Get a random verb that hasn't been shown recently
 function getRandomVerb() {
@@ -1307,21 +1307,21 @@ function handleClick() {
         // Show conjugations
         showConjugations(currentVerb);
         showingConjugations = true;
-        nextButton.textContent = 'Next Card';
+        // nextButton.textContent = 'Next Card';
     } else {
         // Show new verb
         currentVerb = getRandomVerb();
         showInfinitive(currentVerb);
         showingConjugations = false;
-        nextButton.textContent = 'Show Conjugations';
+        // nextButton.textContent = 'Show Conjugations';
     }
 }
 
 // Event listeners
 flashcard.addEventListener('click', handleClick);
-nextButton.addEventListener('click', handleClick);
+// nextButton.addEventListener('click', handleClick);
 
 // Initialize with a random verb
 currentVerb = getRandomVerb();
 showInfinitive(currentVerb);
-nextButton.textContent = 'Show Conjugations';
+// nextButton.textContent = 'Show Conjugations';

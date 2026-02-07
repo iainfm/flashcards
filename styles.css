@@ -10,7 +10,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    align-items: center;
+    /* align-items: center; */
     padding: 20px;
 }
 
@@ -151,7 +151,7 @@ h1 {
     
     .flashcard {
         padding: 40px 20px;
-        min-height: 300px;
+        min-height: 500px;
     }
     
     .infinitive {
