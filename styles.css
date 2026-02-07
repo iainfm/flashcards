@@ -1,15 +1,18 @@
 .flashcard {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid #ddd;
+    padding: 10px;
+    margin: 5px 0;
 }
 
-.pronoun {
-  text-align: right;
-  font-style: normal;
+.pronouns {
+    text-align: right;
+    font-weight: normal;
 }
 
-.conjugation {
-  text-align: left;
-  font-weight: bold;
+.conjugations {
+    text-align: left;
+    font-weight: bold;
 }
