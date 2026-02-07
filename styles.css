@@ -64,13 +64,16 @@ h1 {
     font-size: 3em;
     font-weight: bold;
     color: #667eea;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
+    text-align: center;
 }
 
 .translation {
     font-size: 1.5em;
     color: #666;
     font-style: italic;
+    margin-bottom: 20px;
+    text-align: center;
 }
 
 .conjugations {

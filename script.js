@@ -1247,17 +1247,21 @@ function showInfinitive(verb) {
 
 // Display the conjugations
 function showConjugations(verb) {
-    infinitiveEl.classList.add('hidden');
-    translationEl.classList.add('hidden');
-    
+    // Infinitive and translation should always be visible at the top
+    infinitiveEl.textContent = verb.infinitive;
+    translationEl.textContent = verb.translation;
+    infinitiveEl.classList.remove('hidden');
+    translationEl.classList.remove('hidden');
+
     // Clear previous content
     conjugationsEl.innerHTML = '';
-    
+
     // Create heading
     const heading = document.createElement('h3');
     heading.textContent = 'Present Tense Conjugations';
+    heading.style.marginTop = '20px';
     conjugationsEl.appendChild(heading);
-    
+
     // Create conjugation items
     const conjugations = [
         { pronoun: 'yo', form: verb.conjugations.yo },
@@ -1267,21 +1271,21 @@ function showConjugations(verb) {
         { pronoun: 'vosotros', form: verb.conjugations.vosotros },
         { pronoun: 'ellos/ellas/Uds.', form: verb.conjugations.ellos }
     ];
-    
+
     conjugations.forEach(({ pronoun, form }) => {
         const div = document.createElement('div');
         div.className = 'conjugation-item';
-        
+
         const pronounSpan = document.createElement('span');
         pronounSpan.className = 'pronoun';
         pronounSpan.textContent = pronoun;
-        
+
         div.appendChild(pronounSpan);
         div.appendChild(document.createTextNode(' ' + form));
-        
+
         conjugationsEl.appendChild(div);
     });
-    
+
     conjugationsEl.classList.remove('hidden');
 }
 
