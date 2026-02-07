@@ -829,18 +829,6 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "conseguir",
-        translation: "to achieve, to get",
-        conjugations: {
-            yo: "consigo",
-            tú: "consigues",
-            él: "consigue",
-            nosotros: "conseguimos",
-            vosotros: "conseguís",
-            ellos: "consiguen"
-        }
-    },
-    {
         infinitive: "explicar",
         translation: "to explain",
         conjugations: {
@@ -1175,6 +1163,42 @@ const spanishVerbs = [
             vosotros: "coméis",
             ellos: "comen"
         }
+    },
+    {
+        infinitive: "sentar",
+        translation: "to sit, to seat",
+        conjugations: {
+            yo: "siento",
+            tú: "sientas",
+            él: "sienta",
+            nosotros: "sentamos",
+            vosotros: "sentáis",
+            ellos: "sientan"
+        }
+    },
+    {
+        infinitive: "ganar",
+        translation: "to win, to earn",
+        conjugations: {
+            yo: "gano",
+            tú: "ganas",
+            él: "gana",
+            nosotros: "ganamos",
+            vosotros: "ganáis",
+            ellos: "ganan"
+        }
+    },
+    {
+        infinitive: "mover",
+        translation: "to move",
+        conjugations: {
+            yo: "muevo",
+            tú: "mueves",
+            él: "mueve",
+            nosotros: "movemos",
+            vosotros: "movéis",
+            ellos: "mueven"
+        }
     }
 ];
 
@@ -1226,29 +1250,38 @@ function showConjugations(verb) {
     infinitiveEl.classList.add('hidden');
     translationEl.classList.add('hidden');
     
-    const conjugationsHTML = `
-        <h3>Present Tense Conjugations</h3>
-        <div class="conjugation-item">
-            <span class="pronoun">yo</span> ${verb.conjugations.yo}
-        </div>
-        <div class="conjugation-item">
-            <span class="pronoun">tú</span> ${verb.conjugations.tú}
-        </div>
-        <div class="conjugation-item">
-            <span class="pronoun">él/ella/Ud.</span> ${verb.conjugations.él}
-        </div>
-        <div class="conjugation-item">
-            <span class="pronoun">nosotros</span> ${verb.conjugations.nosotros}
-        </div>
-        <div class="conjugation-item">
-            <span class="pronoun">vosotros</span> ${verb.conjugations.vosotros}
-        </div>
-        <div class="conjugation-item">
-            <span class="pronoun">ellos/ellas/Uds.</span> ${verb.conjugations.ellos}
-        </div>
-    `;
+    // Clear previous content
+    conjugationsEl.innerHTML = '';
     
-    conjugationsEl.innerHTML = conjugationsHTML;
+    // Create heading
+    const heading = document.createElement('h3');
+    heading.textContent = 'Present Tense Conjugations';
+    conjugationsEl.appendChild(heading);
+    
+    // Create conjugation items
+    const conjugations = [
+        { pronoun: 'yo', form: verb.conjugations.yo },
+        { pronoun: 'tú', form: verb.conjugations.tú },
+        { pronoun: 'él/ella/Ud.', form: verb.conjugations.él },
+        { pronoun: 'nosotros', form: verb.conjugations.nosotros },
+        { pronoun: 'vosotros', form: verb.conjugations.vosotros },
+        { pronoun: 'ellos/ellas/Uds.', form: verb.conjugations.ellos }
+    ];
+    
+    conjugations.forEach(({ pronoun, form }) => {
+        const div = document.createElement('div');
+        div.className = 'conjugation-item';
+        
+        const pronounSpan = document.createElement('span');
+        pronounSpan.className = 'pronoun';
+        pronounSpan.textContent = pronoun;
+        
+        div.appendChild(pronounSpan);
+        div.appendChild(document.createTextNode(' ' + form));
+        
+        conjugationsEl.appendChild(div);
+    });
+    
     conjugationsEl.classList.remove('hidden');
 }
 
