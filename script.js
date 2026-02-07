@@ -854,7 +854,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "reconocer",
-        translation: "to recognize",
+        translation: "to recognise",
         conjugations: {
             yo: "reconozco",
             tú: "reconoces",
