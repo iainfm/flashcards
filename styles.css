@@ -1,14 +1,13 @@
-.conjugation-item {
-  flex: 1;
-  text-align: left;
-}
-
-.pronoun {
-  flex: 1;
-  text-align: right;
-}
-
-.container {
+.conjugation-container {
   display: flex;
-  justify-content: space-between;
+}
+
+.pronouns {
+  text-align: right;
+  width: 50%;
+}
+
+.conjugations {
+  text-align: left;
+  width: 50%;
 }
