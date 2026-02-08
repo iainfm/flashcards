@@ -1,7 +1,8 @@
 // Most common Spanish verbs with their English translations and present tense conjugations
 const spanishVerbs = [
     {
-        infinitive: "ser (irr.)",
+        infinitive: "ser",
+        regular: false,
         translation: "to be (permanent)",
         conjugations: {
             yo: "soy",
@@ -13,7 +14,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "estar (irr.)",
+        infinitive: "estar",
+        regular: false,
         translation: "to be (temporary)",
         conjugations: {
             yo: "estoy",
@@ -25,7 +27,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "haber (irr.)",
+        infinitive: "haber",
+        regular: false,
         translation: "to have (auxiliary)",
         conjugations: {
             yo: "he",
@@ -37,7 +40,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "tener (irr.)",
+        infinitive: "tener",
+        regular: false,
         translation: "to have",
         conjugations: {
             yo: "tengo",
@@ -49,7 +53,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "hacer (irr.)",
+        infinitive: "hacer",
+        regular: false,
         translation: "to do, to make",
         conjugations: {
             yo: "hago",
@@ -61,7 +66,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "poder (irr.)",
+        infinitive: "poder",
+        regular: false,
         translation: "to be able, can",
         conjugations: {
             yo: "puedo",
@@ -73,7 +79,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "decir (irr.)",
+        infinitive: "decir",
+        regular: false,
         translation: "to say, to tell",
         conjugations: {
             yo: "digo",
@@ -85,7 +92,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "ir (irr.)",
+        infinitive: "ir",
+        regular: false,
         translation: "to go",
         conjugations: {
             yo: "voy",
@@ -97,7 +105,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "ver (irr.)",
+        infinitive: "ver",
+        regular: false,
         translation: "to see",
         conjugations: {
             yo: "veo",
@@ -109,7 +118,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "dar (irr.)",
+        infinitive: "dar",
+        regular: false,
         translation: "to give",
         conjugations: {
             yo: "doy",
@@ -121,7 +131,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "saber (irr.)",
+        infinitive: "saber",
+        regular: false,
         translation: "to know (facts)",
         conjugations: {
             yo: "sé",
@@ -133,7 +144,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "querer (irr.)",
+        infinitive: "querer",
+        regular: false,
         translation: "to want, to love",
         conjugations: {
             yo: "quiero",
@@ -146,6 +158,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "llegar",
+        regular: true,
         translation: "to arrive",
         conjugations: {
             yo: "llego",
@@ -158,6 +171,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "pasar",
+        regular: true,
         translation: "to pass, to happen",
         conjugations: {
             yo: "paso",
@@ -170,6 +184,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "deber",
+        regular: true,
         translation: "to owe, must",
         conjugations: {
             yo: "debo",
@@ -181,7 +196,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "poner (irr.)",
+        infinitive: "poner",
+        regular: false,
         translation: "to put, to place",
         conjugations: {
             yo: "pongo",
@@ -193,7 +209,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "parecer (irr.)",
+        infinitive: "parecer",
+        regular: false,
         translation: "to seem, to appear",
         conjugations: {
             yo: "parezco",
@@ -206,6 +223,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "quedar",
+        regular: true,
         translation: "to stay, to remain",
         conjugations: {
             yo: "quedo",
@@ -218,6 +236,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "creer",
+        regular: true,
         translation: "to believe",
         conjugations: {
             yo: "creo",
@@ -230,6 +249,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "hablar",
+        regular: true,
         translation: "to speak, to talk",
         conjugations: {
             yo: "hablo",
@@ -242,6 +262,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "llevar",
+        regular: true,
         translation: "to carry, to wear",
         conjugations: {
             yo: "llevo",
@@ -254,6 +275,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "dejar",
+        regular: true,
         translation: "to leave, to let",
         conjugations: {
             yo: "dejo",
@@ -265,7 +287,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "seguir (irr.)",
+        infinitive: "seguir",
+        regular: false,
         translation: "to follow, to continue",
         conjugations: {
             yo: "sigo",
@@ -277,7 +300,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "encontrar (irr.)",
+        infinitive: "encontrar",
+        regular: false,
         translation: "to find, to meet",
         conjugations: {
             yo: "encuentro",
@@ -290,6 +314,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "llamar",
+        regular: true,
         translation: "to call",
         conjugations: {
             yo: "llamo",
@@ -301,7 +326,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "venir (irr.)",
+        infinitive: "venir",
+        regular: false,
         translation: "to come",
         conjugations: {
             yo: "vengo",
@@ -313,7 +339,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "pensar (irr.)",
+        infinitive: "pensar",
+        regular: false,
         translation: "to think",
         conjugations: {
             yo: "pienso",
@@ -325,7 +352,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "salir (irr.)",
+        infinitive: "salir",
+        regular: false,
         translation: "to leave, to go out",
         conjugations: {
             yo: "salgo",
@@ -337,7 +365,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "volver (irr.)",
+        infinitive: "volver",
+        regular: false,
         translation: "to return, to come back",
         conjugations: {
             yo: "vuelvo",
@@ -350,6 +379,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "tomar",
+        regular: true,
         translation: "to take, to drink",
         conjugations: {
             yo: "tomo",
@@ -361,7 +391,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "conocer (irr.)",
+        infinitive: "conocer",
+        regular: false,
         translation: "to know (people/places)",
         conjugations: {
             yo: "conozco",
@@ -374,6 +405,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "vivir",
+        regular: true,
         translation: "to live",
         conjugations: {
             yo: "vivo",
@@ -385,7 +417,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "sentir (irr.)",
+        infinitive: "sentir",
+        regular: false,
         translation: "to feel, to be sorry",
         conjugations: {
             yo: "siento",
@@ -398,6 +431,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "tratar",
+        regular: true,
         translation: "to treat, to try",
         conjugations: {
             yo: "trato",
@@ -410,6 +444,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "mirar",
+        regular: true,
         translation: "to look, to watch",
         conjugations: {
             yo: "miro",
@@ -421,7 +456,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "contar (irr.)",
+        infinitive: "contar",
+        regular: false,
         translation: "to count, to tell",
         conjugations: {
             yo: "cuento",
@@ -433,7 +469,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "empezar (irr.)",
+        infinitive: "empezar",
+        regular: false,
         translation: "to begin, to start",
         conjugations: {
             yo: "empiezo",
@@ -446,6 +483,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "esperar",
+        regular: true,
         translation: "to wait, to hope",
         conjugations: {
             yo: "espero",
@@ -458,6 +496,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "buscar",
+        regular: true,
         translation: "to search, to look for",
         conjugations: {
             yo: "busco",
@@ -470,6 +509,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "existir",
+        regular: true,
         translation: "to exist",
         conjugations: {
             yo: "existo",
@@ -482,6 +522,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "entrar",
+        regular: true,
         translation: "to enter",
         conjugations: {
             yo: "entro",
@@ -494,6 +535,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "trabajar",
+        regular: true,
         translation: "to work",
         conjugations: {
             yo: "trabajo",
@@ -506,6 +548,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "escribir",
+        regular: true,
         translation: "to write",
         conjugations: {
             yo: "escribo",
@@ -517,7 +560,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "perder (irr.)",
+        infinitive: "perder",
+        regular: false,
         translation: "to lose, to miss",
         conjugations: {
             yo: "pierdo",
@@ -529,7 +573,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "producir (irr.)",
+        infinitive: "producir",
+        regular: false,
         translation: "to produce",
         conjugations: {
             yo: "produzco",
@@ -542,6 +587,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "ocurrir",
+        regular: true,
         translation: "to occur, to happen",
         conjugations: {
             yo: "ocurro",
@@ -553,7 +599,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "entender (irr.)",
+        infinitive: "entender",
+        regular: false,
         translation: "to understand",
         conjugations: {
             yo: "entiendo",
@@ -565,7 +612,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "pedir (irr.)",
+        infinitive: "pedir",
+        regular: false,
         translation: "to ask for, to request",
         conjugations: {
             yo: "pido",
@@ -578,6 +626,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "recibir",
+        regular: true,
         translation: "to receive",
         conjugations: {
             yo: "recibo",
@@ -589,7 +638,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "recordar (irr.)",
+        infinitive: "recordar",
+        regular: false,
         translation: "to remember",
         conjugations: {
             yo: "recuerdo",
@@ -602,6 +652,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "terminar",
+        regular: true,
         translation: "to finish, to end",
         conjugations: {
             yo: "termino",
@@ -614,6 +665,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "permitir",
+        regular: true,
         translation: "to permit, to allow",
         conjugations: {
             yo: "permito",
@@ -625,7 +677,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "aparecer (irr.)",
+        infinitive: "aparecer",
+        regular: false,
         translation: "to appear",
         conjugations: {
             yo: "aparezco",
@@ -637,7 +690,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "conseguir (irr.)",
+        infinitive: "conseguir",
+        regular: false,
         translation: "to get, to obtain",
         conjugations: {
             yo: "consigo",
@@ -649,7 +703,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "comenzar (irr.)",
+        infinitive: "comenzar",
+        regular: false,
         translation: "to begin, to commence",
         conjugations: {
             yo: "comienzo",
@@ -661,7 +716,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "servir (irr.)",
+        infinitive: "servir",
+        regular: false,
         translation: "to serve",
         conjugations: {
             yo: "sirvo",
@@ -674,6 +730,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "sacar",
+        regular: true,
         translation: "to take out, to get",
         conjugations: {
             yo: "saco",
@@ -686,6 +743,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "necesitar",
+        regular: true,
         translation: "to need",
         conjugations: {
             yo: "necesito",
@@ -697,7 +755,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "mantener (irr.)",
+        infinitive: "mantener",
+        regular: false,
         translation: "to maintain, to keep",
         conjugations: {
             yo: "mantengo",
@@ -710,6 +769,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "resultar",
+        regular: true,
         translation: "to result, to turn out",
         conjugations: {
             yo: "resulto",
@@ -722,6 +782,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "leer",
+        regular: true,
         translation: "to read",
         conjugations: {
             yo: "leo",
@@ -733,7 +794,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "caer (irr.)",
+        infinitive: "caer",
+        regular: false,
         translation: "to fall",
         conjugations: {
             yo: "caigo",
@@ -746,6 +808,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "cambiar",
+        regular: true,
         translation: "to change",
         conjugations: {
             yo: "cambio",
@@ -758,6 +821,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "presentar",
+        regular: true,
         translation: "to present, to introduce",
         conjugations: {
             yo: "presento",
@@ -770,6 +834,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "crear",
+        regular: true,
         translation: "to create",
         conjugations: {
             yo: "creo",
@@ -782,6 +847,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "abrir",
+        regular: true,
         translation: "to open",
         conjugations: {
             yo: "abro",
@@ -794,6 +860,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "considerar",
+        regular: true,
         translation: "to consider",
         conjugations: {
             yo: "considero",
@@ -805,7 +872,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "oír (irr.)",
+        infinitive: "oír",
+        regular: false,
         translation: "to hear",
         conjugations: {
             yo: "oigo",
@@ -818,6 +886,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "acabar",
+        regular: true,
         translation: "to finish, to end",
         conjugations: {
             yo: "acabo",
@@ -830,6 +899,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "explicar",
+        regular: true,
         translation: "to explain",
         conjugations: {
             yo: "explico",
@@ -842,6 +912,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "tocar",
+        regular: true,
         translation: "to touch, to play (instrument)",
         conjugations: {
             yo: "toco",
@@ -853,7 +924,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "reconocer (irr.)",
+        infinitive: "reconocer",
+        regular: false,
         translation: "to recognise",
         conjugations: {
             yo: "reconozco",
@@ -866,6 +938,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "estudiar",
+        regular: true,
         translation: "to study",
         conjugations: {
             yo: "estudio",
@@ -878,6 +951,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "alcanzar",
+        regular: true,
         translation: "to reach, to achieve",
         conjugations: {
             yo: "alcanzo",
@@ -889,7 +963,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "nacer (irr.)",
+        infinitive: "nacer",
+        regular: false,
         translation: "to be born",
         conjugations: {
             yo: "nazco",
@@ -901,7 +976,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "dirigir (irr.)",
+        infinitive: "dirigir",
+        regular: false,
         translation: "to direct, to manage",
         conjugations: {
             yo: "dirijo",
@@ -914,6 +990,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "correr",
+        regular: true,
         translation: "to run",
         conjugations: {
             yo: "corro",
@@ -926,6 +1003,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "utilizar",
+        regular: true,
         translation: "to use, to utilize",
         conjugations: {
             yo: "utilizo",
@@ -938,6 +1016,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "pagar",
+        regular: true,
         translation: "to pay",
         conjugations: {
             yo: "pago",
@@ -950,6 +1029,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "ayudar",
+        regular: true,
         translation: "to help",
         conjugations: {
             yo: "ayudo",
@@ -962,6 +1042,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "gustar",
+        regular: true,
         translation: "to like, to please",
         conjugations: {
             yo: "gusto",
@@ -973,7 +1054,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "jugar (irr.)",
+        infinitive: "jugar",
+        regular: false,
         translation: "to play (game/sport)",
         conjugations: {
             yo: "juego",
@@ -985,7 +1067,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "ofrecer (irr.)",
+        infinitive: "ofrecer",
+        regular: false,
         translation: "to offer",
         conjugations: {
             yo: "ofrezco",
@@ -998,6 +1081,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "descubrir",
+        regular: true,
         translation: "to discover",
         conjugations: {
             yo: "descubro",
@@ -1010,6 +1094,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "levantar",
+        regular: true,
         translation: "to raise, to lift",
         conjugations: {
             yo: "levanto",
@@ -1022,6 +1107,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "intentar",
+        regular: true,
         translation: "to try, to attempt",
         conjugations: {
             yo: "intento",
@@ -1034,6 +1120,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "usar",
+        regular: true,
         translation: "to use",
         conjugations: {
             yo: "uso",
@@ -1046,6 +1133,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "formar",
+        regular: true,
         translation: "to form, to train",
         conjugations: {
             yo: "formo",
@@ -1057,7 +1145,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "traer (irr.)",
+        infinitive: "traer",
+        regular: false,
         translation: "to bring",
         conjugations: {
             yo: "traigo",
@@ -1070,6 +1159,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "partir",
+        regular: true,
         translation: "to leave, to split",
         conjugations: {
             yo: "parto",
@@ -1081,7 +1171,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "morir (irr.)",
+        infinitive: "morir",
+        regular: false,
         translation: "to die",
         conjugations: {
             yo: "muero",
@@ -1094,6 +1185,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "aceptar",
+        regular: true,
         translation: "to accept",
         conjugations: {
             yo: "acepto",
@@ -1106,6 +1198,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "realizar",
+        regular: true,
         translation: "to carry out, to accomplish",
         conjugations: {
             yo: "realizo",
@@ -1117,7 +1210,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "suponer (irr.)",
+        infinitive: "suponer",
+        regular: false,
         translation: "to suppose, to assume",
         conjugations: {
             yo: "supongo",
@@ -1130,6 +1224,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "comprender",
+        regular: true,
         translation: "to understand, to comprise",
         conjugations: {
             yo: "comprendo",
@@ -1142,6 +1237,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "lograr",
+        regular: true,
         translation: "to achieve, to manage",
         conjugations: {
             yo: "logro",
@@ -1154,6 +1250,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "comer",
+        regular: true,
         translation: "to eat",
         conjugations: {
             yo: "como",
@@ -1165,7 +1262,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "sentar (irr.)",
+        infinitive: "sentar",
+        regular: false,
         translation: "to sit, to seat",
         conjugations: {
             yo: "siento",
@@ -1178,6 +1276,7 @@ const spanishVerbs = [
     },
     {
         infinitive: "ganar",
+        regular: true,
         translation: "to win, to earn",
         conjugations: {
             yo: "gano",
@@ -1189,7 +1288,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "mover (irr.)",
+        infinitive: "mover",
+        regular: false,
         translation: "to move",
         conjugations: {
             yo: "muevo",
@@ -1201,7 +1301,8 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "dormir (irr.)",
+        infinitive: "dormir",
+        regular: false,
         translation: "to sleep",
         conjugations: {
             yo: "duermo",
@@ -1250,7 +1351,7 @@ function getRandomVerb() {
 
 // Display the verb infinitive and translation
 function showInfinitive(verb) {
-    infinitiveEl.textContent = verb.infinitive;
+    infinitiveEl.textContent = verb.infinitive + (verb.regular ? "" : " (irr.)");
     translationEl.textContent = verb.translation;
     conjugationsEl.classList.add('hidden');
     infinitiveEl.classList.remove('hidden');
@@ -1260,7 +1361,7 @@ function showInfinitive(verb) {
 // Display the conjugations
 function showConjugations(verb) {
     // Infinitive and translation should always be visible at the top
-    infinitiveEl.textContent = verb.infinitive;
+    infinitiveEl.textContent = verb.infinitive + (verb.regular ? "" : " (irr.)");
     translationEl.textContent = verb.translation;
     infinitiveEl.classList.remove('hidden');
     translationEl.classList.remove('hidden');
@@ -1307,13 +1408,11 @@ function handleClick() {
         // Show conjugations
         showConjugations(currentVerb);
         showingConjugations = true;
-        // nextButton.textContent = 'Next Card';
     } else {
         // Show new verb
         currentVerb = getRandomVerb();
         showInfinitive(currentVerb);
         showingConjugations = false;
-        // nextButton.textContent = 'Show Conjugations';
     }
 }
 
