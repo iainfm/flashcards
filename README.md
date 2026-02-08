@@ -1,10 +1,10 @@
 # Spanish Verb Flashcards
 
-A web application for learning the top 100 most common Spanish verbs using interactive flashcards.
+A web application for learning most common Spanish verbs using interactive flashcards.
 
 ## Features
 
-- 100 most common Spanish verbs with English translations
+- Over 100 of the most common Spanish verbs with English translations
 - Present tense conjugations for all six pronouns
 - Interactive flashcard interface
 - Random verb selection to aid learning
