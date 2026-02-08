@@ -1325,7 +1325,6 @@ const flashcard = document.getElementById('flashcard');
 const infinitiveEl = document.getElementById('infinitive');
 const translationEl = document.getElementById('translation');
 const conjugationsEl = document.getElementById('conjugations');
-// const nextButton = document.getElementById('nextButton');
 
 // Get a random verb that hasn't been shown recently
 function getRandomVerb() {
@@ -1418,9 +1417,7 @@ function handleClick() {
 
 // Event listeners
 flashcard.addEventListener('click', handleClick);
-// nextButton.addEventListener('click', handleClick);
 
 // Initialize with a random verb
 currentVerb = getRandomVerb();
 showInfinitive(currentVerb);
-// nextButton.textContent = 'Show Conjugations';
