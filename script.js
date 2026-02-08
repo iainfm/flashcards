@@ -265,7 +265,7 @@ const spanishVerbs = [
         }
     },
     {
-        infinitive: "seguir",
+        infinitive: "seguir (irr.)",
         translation: "to follow, to continue",
         conjugations: {
             yo: "sigo",
