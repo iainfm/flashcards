@@ -48,10 +48,10 @@ Then visit `http://localhost:8080` in your browser.
 ## Screenshots
 
 ### Initial View - Verb Infinitive
-![Initial View](https://github.com/user-attachments/assets/f40c64fa-fa8d-4acc-87cd-64f8268fac45)
+<img width="108" height="234" alt="Screenshot_20260208-120534" src="https://github.com/user-attachments/assets/ef50b820-b0ec-4b11-a4fd-e29f6b94bb0a" />
+
 
 ### Conjugations View
-![Conjugations](https://github.com/user-attachments/assets/fbc9229a-4cd7-4f26-a45f-4d31ba85e5a2)
+<img width="108" height="234" alt="Screenshot_20260208-120543" src="https://github.com/user-attachments/assets/a01660ab-9bfd-4884-9fcf-13053376e9a7" />
 
-### Mobile Responsive
-![Mobile View](https://github.com/user-attachments/assets/d7a31e67-5522-4107-9c3a-ee35dc356c13)
+
