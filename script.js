@@ -1312,6 +1312,84 @@ const spanishVerbs = [
             vosotros: "dormís",
             ellos: "duermen"
         }
+    },
+    {
+        infintive: "disfrutar",
+        regular: true,
+        translation: "to enjoy",
+        conjugations: {
+            yo: "disfruto",
+            tú: "disfrutas",
+            él: "disfruta",
+            nosotros: "disfrutamos",
+            vosotros: "disfrutáis",
+            ellos: "disfrutan"
+        }
+    },
+    {
+        infinitive: "olvidar",
+        regular: true,
+        translation: "to forget",
+        conjugations: {
+            yo: "olvido",
+            tú: "olvidas",
+            él: "olvida",
+            nosotros: "olvidamos",
+            vosotros: "olvidáis",
+            ellos: "olvidan"
+        }
+    },
+    {
+        infinitive: "lanzar",
+        regular: true,
+        translation: "to throw, to launch",
+        conjugations: {
+            yo: "lanzo",
+            tú: "lanzas",
+            él: "lanza",
+            nosotros: "lanzamos",
+            vosotros: "lanzáis",
+            ellos: "lanzan"
+        }
+    },
+    {
+        infinitive: "reír",
+        regular: false,
+        translation: "to laugh",
+        conjugations: {
+            yo: "río",
+            tú: "ríes",
+            él: "ríe",
+            nosotros: "reímos",
+            vosotros: "reís",
+            ellos: "ríen"
+        }
+    },
+    {
+        infinitive: "aprender",
+        regular: true,
+        translation: "to learn",
+        conjugations: {
+            yo: "aprendo",
+            tú: "aprendes",
+            él: "aprende",
+            nosotros: "aprendemos",
+            vosotros: "aprendéis",
+            ellos: "aprenden"
+        }
+    },
+    {
+        infinitive: "sonreír",
+        regular: false,
+        translation: "to smile",
+        conjugations: {
+            yo: "sonrío",
+            tú: "sonríes",
+            él: "sonríe",
+            nosotros: "sonreímos",
+            vosotros: "sonreís",
+            ellos: "sonríen"
+        }
     }
 ];
 
