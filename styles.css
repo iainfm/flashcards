@@ -111,6 +111,44 @@ h1 {
     padding-left: 10px;
 }
 
+.tense-selector {
+    display: flex;
+    justify-content: center;
+    gap: 8px;
+    flex-wrap: wrap;
+    margin-bottom: 20px;
+}
+
+.tense-button {
+    background: #f0f0f0;
+    color: #667eea;
+    border: 2px solid #e0e0e0;
+    padding: 8px 16px;
+    font-size: 0.9em;
+    font-weight: bold;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    text-transform: capitalize;
+}
+
+.tense-button:hover {
+    background: #e8ecff;
+    border-color: #667eea;
+    transform: translateY(-1px);
+}
+
+.tense-button.active {
+    background: #667eea;
+    color: white;
+    border-color: #667eea;
+}
+
+.tense-button.active:hover {
+    background: #5a6fd8;
+    border-color: #5a6fd8;
+}
+
 .hidden {
     display: none;
 }
