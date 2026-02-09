@@ -1201,6 +1201,7 @@ const spanishVerbs = [
                 ellos: "dejarían"
             },
             imperative: {
+                yo: "-",
                 tú: "deja",
                 él: "deje",
                 nosotros: "dejemos",
@@ -1255,6 +1256,7 @@ const spanishVerbs = [
                 ellos: "seguirían"
             },
             imperative: {
+                yo: "-",
                 tú: "sigue",
                 él: "siga",
                 nosotros: "sigamos",
@@ -1309,6 +1311,7 @@ const spanishVerbs = [
                 ellos: "encontrarían"
             },
             imperative: {
+                yo: "-",
                 tú: "encuentra",
                 él: "encuentre",
                 nosotros: "encontremos",
@@ -1363,6 +1366,7 @@ const spanishVerbs = [
                 ellos: "llamarían"
             },
             imperative: {
+                yo: "-",
                 tú: "llama",
                 él: "llame",
                 nosotros: "llamemos",
@@ -1417,6 +1421,7 @@ const spanishVerbs = [
                 ellos: "vendrían"
             },
             imperative: {
+                yo: "-",
                 tú: "ven",
                 él: "venga",
                 nosotros: "vengamos",
@@ -1471,6 +1476,7 @@ const spanishVerbs = [
                 ellos: "pensarían"
             },
             imperative: {
+                yo: "-",
                 tú: "piensa",
                 él: "piense",
                 nosotros: "pensemos",
@@ -1525,6 +1531,7 @@ const spanishVerbs = [
                 ellos: "saldrían"
             },
             imperative: {
+                yo: "-",
                 tú: "sal",
                 él: "salga",
                 nosotros: "salgamos",
@@ -1579,6 +1586,7 @@ const spanishVerbs = [
                 ellos: "volverían"
             },
             imperative: {
+                yo: "-",
                 tú: "vuelve",
                 él: "vuelva",
                 nosotros: "volvamos",
@@ -1633,6 +1641,7 @@ const spanishVerbs = [
                 ellos: "tomarían"
             },
             imperative: {
+                yo: "-",
                 tú: "toma",
                 él: "tome",
                 nosotros: "tomemos",
@@ -1687,6 +1696,7 @@ const spanishVerbs = [
                 ellos: "conocerían"
             },
             imperative: {
+                yo: "-",
                 tú: "conoce",
                 él: "conozca",
                 nosotros: "conozcamos",
@@ -1741,6 +1751,7 @@ const spanishVerbs = [
                 ellos: "vivirían"
             },
             imperative: {
+                yo: "-",
                 tú: "vive",
                 él: "viva",
                 nosotros: "vivamos",
@@ -1795,6 +1806,7 @@ const spanishVerbs = [
                 ellos: "sentirían"
             },
             imperative: {
+                yo: "-",
                 tú: "siente",
                 él: "sienta",
                 nosotros: "sintamos",
@@ -1849,6 +1861,7 @@ const spanishVerbs = [
                 ellos: "tratarían"
             },
             imperative: {
+                yo: "-",
                 tú: "trata",
                 él: "trate",
                 nosotros: "tratemos",
@@ -1903,6 +1916,7 @@ const spanishVerbs = [
                 ellos: "miraríamos"
             },
             imperative: {
+                yo: "-",
                 tú: "mira",
                 él: "mire",
                 nosotros: "miremos",
@@ -1957,6 +1971,7 @@ const spanishVerbs = [
                 ellos: "contarían"
             },
             imperative: {
+                yo: "-",
                 tú: "cuenta",
                 él: "cuente",
                 nosotros: "contemos",
@@ -2011,6 +2026,7 @@ const spanishVerbs = [
                 ellos: "empezarían"
             },
             imperative: {
+                yo: "-",
                 tú: "empieza",
                 él: "empiece",
                 nosotros: "empecemos",
@@ -2065,6 +2081,7 @@ const spanishVerbs = [
                 ellos: "esperarían"
             },
             imperative: {
+                yo: "-",
                 tú: "espera",
                 él: "espere",
                 nosotros: "esperemos",
@@ -2119,6 +2136,7 @@ const spanishVerbs = [
                 ellos: "buscarían"
             },
             imperative: {
+                yo: "-",
                 tú: "busca",
                 él: "busque",
                 nosotros: "busquemos",
@@ -2173,6 +2191,7 @@ const spanishVerbs = [
                 ellos: "existirían"
             },
             imperative: {
+                yo: "-",
                 tú: "existe",
                 él: "exista",
                 nosotros: "existamos",
@@ -2227,6 +2246,7 @@ const spanishVerbs = [
                 ellos: "entrarían"
             },
             imperative: {
+                yo: "-",
                 tú: "entra",
                 él: "entre",
                 nosotros: "entremos",
@@ -2281,6 +2301,7 @@ const spanishVerbs = [
                 ellos: "trabajarían"
             },
             imperative: {
+                yo: "-",
                 tú: "trabaja",
                 él: "trabaje",
                 nosotros: "trabajemos",
@@ -2335,6 +2356,7 @@ const spanishVerbs = [
                 ellos: "escribirían"
             },
             imperative: {
+                yo: "-",
                 tú: "escribe",
                 él: "escriba",
                 nosotros: "escribamos",
@@ -2389,6 +2411,7 @@ const spanishVerbs = [
                 ellos: "perderían"
             },
             imperative: {
+                yo: "-",
                 tú: "pierde",
                 él: "pierda",
                 nosotros: "perdamos",
@@ -2443,6 +2466,7 @@ const spanishVerbs = [
                 ellos: "producirían"
             },
             imperative: {
+                yo: "-",
                 tú: "produce",
                 él: "produzca",
                 nosotros: "produzcamos",
@@ -2497,6 +2521,7 @@ const spanishVerbs = [
                 ellos: "ocurrirían"
             },
             imperative: {
+                yo: "-",
                 tú: "ocurre",
                 él: "ocurra",
                 nosotros: "ocurramos",
@@ -2551,6 +2576,7 @@ const spanishVerbs = [
                 ellos: "entenderían"
             },
             imperative: {
+                yo: "-",
                 tú: "entiende",
                 él: "entienda",
                 nosotros: "entendamos",
@@ -2605,6 +2631,7 @@ const spanishVerbs = [
                 ellos: "pedirían"
             },
             imperative: {
+                yo: "-",
                 tú: "pide",
                 él: "pida",
                 nosotros: "pidamos",
@@ -2659,6 +2686,7 @@ const spanishVerbs = [
                 ellos: "recibirían"
             },
             imperative: {
+                yo: "-",
                 tú: "recibe",
                 él: "reciba",
                 nosotros: "recibamos",
@@ -2713,6 +2741,7 @@ const spanishVerbs = [
                 ellos: "recordarían"
             },
             imperative: {
+                yo: "-",
                 tú: "recuerda",
                 él: "recuerde",
                 nosotros: "recordemos",
@@ -2767,6 +2796,7 @@ const spanishVerbs = [
                 ellos: "terminarían"
             },
             imperative: {
+                yo: "-",
                 tú: "termina",
                 él: "termine",
                 nosotros: "terminemos",
@@ -2821,6 +2851,7 @@ const spanishVerbs = [
                 ellos: "permitirían"
             },
             imperative: {
+                yo: "-",
                 tú: "permite",
                 él: "permita",
                 nosotros: "permitamos",
@@ -2875,6 +2906,7 @@ const spanishVerbs = [
                 ellos: "aparecerían"
             },
             imperative: {
+                yo: "-",
                 tú: "aparece",
                 él: "aparezca",
                 nosotros: "aparezcamos",
@@ -2929,6 +2961,7 @@ const spanishVerbs = [
                 ellos: "conseguirían"
             },
             imperative: {
+                yo: "-",
                 tú: "consigue",
                 él: "consiga",
                 nosotros: "consigamos",
@@ -2983,6 +3016,7 @@ const spanishVerbs = [
                 ellos: "servirían"
             },
             imperative: {
+                yo: "-",
                 tú: "sirve",
                 él: "sirva",
                 nosotros: "sirvamos",
@@ -3037,6 +3071,7 @@ const spanishVerbs = [
                 ellos: "sacarían"
             },
             imperative: {
+                yo: "-",
                 tú: "saca",
                 él: "saque",
                 nosotros: "saquemos",
@@ -3091,6 +3126,7 @@ const spanishVerbs = [
                 ellos: "necesitarían"
             },
             imperative: {
+                yo: "-",
                 tú: "necesita",
                 él: "necesite",
                 nosotros: "necesitemos",
@@ -3145,6 +3181,7 @@ const spanishVerbs = [
                 ellos: "mantendrían"
             },
             imperative: {
+                yo: "-",
                 tú: "mantén",
                 él: "mantenga",
                 nosotros: "mantengamos",
@@ -3199,6 +3236,7 @@ const spanishVerbs = [
                 ellos: "comenzarían"
             },
             imperative: {
+                yo: "-",
                 tú: "comienza",
                 él: "comience",
                 nosotros: "comencemos",
@@ -3253,6 +3291,7 @@ const spanishVerbs = [
                 ellos: "resultarían"
             },
             imperative: {
+                yo: "-",
                 tú: "resulta",
                 él: "resulte",
                 nosotros: "resultemos",
@@ -3307,6 +3346,7 @@ const spanishVerbs = [
                 ellos: "leerían"
             },
             imperative: {
+                yo: "-",
                 tú: "lee",
                 él: "lea",
                 nosotros: "leamos",
@@ -3361,6 +3401,7 @@ const spanishVerbs = [
                 ellos: "caerían"
             },
             imperative: {
+                yo: "-",
                 tú: "cae",
                 él: "caiga",
                 nosotros: "caigamos",
@@ -3415,6 +3456,7 @@ const spanishVerbs = [
                 ellos: "cambiarían"
             },
             imperative: {
+                yo: "-",
                 tú: "cambia",
                 él: "cambie",
                 nosotros: "cambiemos",
@@ -3469,6 +3511,7 @@ const spanishVerbs = [
                 ellos: "presentarían"
             },
             imperative: {
+                yo: "-",
                 tú: "presenta",
                 él: "presente",
                 nosotros: "presentemos",
@@ -3523,6 +3566,7 @@ const spanishVerbs = [
                 ellos: "crearían"
             },
             imperative: {
+                yo: "-",
                 tú: "crea",
                 él: "cree",
                 nosotros: "creemos",
@@ -3577,6 +3621,7 @@ const spanishVerbs = [
                 ellos: "abrirían"
             },
             imperative: {
+                yo: "-",
                 tú: "abre",
                 él: "abra",
                 nosotros: "abramos",
@@ -3631,6 +3676,7 @@ const spanishVerbs = [
                 ellos: "considerarían"
             },
             imperative: {
+                yo: "-",
                 tú: "considera",
                 él: "considere",
                 nosotros: "consideremos",
@@ -3685,6 +3731,7 @@ const spanishVerbs = [
                 ellos: "oirían"
             },
             imperative: {
+                yo: "-",
                 tú: "oye",
                 él: "oiga",
                 nosotros: "oigamos",
@@ -3739,6 +3786,7 @@ const spanishVerbs = [
                 ellos: "acabarían"
             },
             imperative: {
+                yo: "-",
                 tú: "acaba",
                 él: "acabe",
                 nosotros: "acabemos",
@@ -3793,6 +3841,7 @@ const spanishVerbs = [
                 ellos: "explicarían"
             },
             imperative: {
+                yo: "-",
                 tú: "explica",
                 él: "explique",
                 nosotros: "expliquemos",
@@ -3847,6 +3896,7 @@ const spanishVerbs = [
                 ellos: "tocarían"
             },
             imperative: {
+                yo: "-",
                 tú: "toca",
                 él: "toque",
                 nosotros: "toquemos",
@@ -3901,6 +3951,7 @@ const spanishVerbs = [
                 ellos: "reconocerían"
             },
             imperative: {
+                yo: "-",
                 tú: "reconoce",
                 él: "reconozca",
                 nosotros: "reconozcamos",
@@ -3955,6 +4006,7 @@ const spanishVerbs = [
                 ellos: "estudiarían"
             },
             imperative: {
+                yo: "-",
                 tú: "estudia",
                 él: "estudie",
                 nosotros: "estudiemos",
@@ -4009,6 +4061,7 @@ const spanishVerbs = [
                 ellos: "alcanzarían"
             },
             imperative: {
+                yo: "-",
                 tú: "alcanza",
                 él: "alcance",
                 nosotros: "alcancemos",
@@ -4063,6 +4116,7 @@ const spanishVerbs = [
                 ellos: "nacerían"
             },
             imperative: {
+                yo: "-",
                 tú: "nace",
                 él: "nazca",
                 nosotros: "nazcamos",
@@ -4117,6 +4171,7 @@ const spanishVerbs = [
                 ellos: "dirigirían"
             },
             imperative: {
+                yo: "-",
                 tú: "dirige",
                 él: "dirija",
                 nosotros: "dirijamos",
@@ -4171,6 +4226,7 @@ const spanishVerbs = [
                 ellos: "correrían"
             },
             imperative: {
+                yo: "-",
                 tú: "corre",
                 él: "corra",
                 nosotros: "corramos",
@@ -4225,6 +4281,7 @@ const spanishVerbs = [
                 ellos: "utilizarían"
             },
             imperative: {
+                yo: "-",
                 tú: "utiliza",
                 él: "utilice",
                 nosotros: "utilicemos",
@@ -4279,6 +4336,7 @@ const spanishVerbs = [
                 ellos: "pagarían"
             },
             imperative: {
+                yo: "-",
                 tú: "paga",
                 él: "pague",
                 nosotros: "paguemos",
@@ -4333,6 +4391,7 @@ const spanishVerbs = [
                 ellos: "ayudarían"
             },
             imperative: {
+                yo: "-",
                 tú: "ayuda",
                 él: "ayude",
                 nosotros: "ayudemos",
@@ -4387,6 +4446,7 @@ const spanishVerbs = [
                 ellos: "gustarían"
             },
             imperative: {
+                yo: "-",
                 tú: "gusta",
                 él: "guste",
                 nosotros: "gustemos",
@@ -4441,6 +4501,7 @@ const spanishVerbs = [
                 ellos: "jugarían"
             },
             imperative: {
+                yo: "-",
                 tú: "juega",
                 él: "juegue",
                 nosotros: "juguemos",
@@ -4495,6 +4556,7 @@ const spanishVerbs = [
                 ellos: "ofrecerían"
             },
             imperative: {
+                yo: "-",
                 tú: "ofrece",
                 él: "ofrezca",
                 nosotros: "ofrezcamos",
@@ -4549,6 +4611,7 @@ const spanishVerbs = [
                 ellos: "descubrirían"
             },
             imperative: {
+                yo: "-",
                 tú: "descubre",
                 él: "descubra",
                 nosotros: "descubramos",
@@ -4603,6 +4666,7 @@ const spanishVerbs = [
                 ellos: "levantarían"
             },
             imperative: {
+                yo: "-",
                 tú: "levanta",
                 él: "levante",
                 nosotros: "levantemos",
@@ -4657,6 +4721,7 @@ const spanishVerbs = [
                 ellos: "intentarían"
             },
             imperative: {
+                yo: "-",
                 tú: "intenta",
                 él: "intente",
                 nosotros: "intentemos",
@@ -4711,6 +4776,7 @@ const spanishVerbs = [
                 ellos: "usarían"
             },
             imperative: {
+                yo: "-",
                 tú: "usa",
                 él: "use",
                 nosotros: "usemos",
@@ -4765,6 +4831,7 @@ const spanishVerbs = [
                 ellos: "formarían"
             },
             imperative: {
+                yo: "-",
                 tú: "forma",
                 él: "forme",
                 nosotros: "formemos",
@@ -4819,6 +4886,7 @@ const spanishVerbs = [
                 ellos: "traerían"
             },
             imperative: {
+                yo: "-",
                 tú: "trae",
                 él: "traiga",
                 nosotros: "traigamos",
@@ -4873,6 +4941,7 @@ const spanishVerbs = [
                 ellos: "partirían"
             },
             imperative: {
+                yo: "-",
                 tú: "parte",
                 él: "parta",
                 nosotros: "partamos",
@@ -4927,6 +4996,7 @@ const spanishVerbs = [
                 ellos: "morirían"
             },
             imperative: {
+                yo: "-",
                 tú: "muere",
                 él: "muera",
                 nosotros: "muramos",
@@ -4981,6 +5051,7 @@ const spanishVerbs = [
                 ellos: "aceptarían"
             },
             imperative: {
+                yo: "-",
                 tú: "acepta",
                 él: "acepte",
                 nosotros: "aceptemos",
@@ -5035,6 +5106,7 @@ const spanishVerbs = [
                 ellos: "realizarían"
             },
             imperative: {
+                yo: "-",
                 tú: "realiza",
                 él: "realice",
                 nosotros: "realicemos",
@@ -5089,6 +5161,7 @@ const spanishVerbs = [
                 ellos: "supondrían"
             },
             imperative: {
+                yo: "-",
                 tú: "supón",
                 él: "suponga",
                 nosotros: "supongamos",
@@ -5143,6 +5216,7 @@ const spanishVerbs = [
                 ellos: "comprenderían"
             },
             imperative: {
+                yo: "-",
                 tú: "comprende",
                 él: "comprenda",
                 nosotros: "comprendamos",
@@ -5197,6 +5271,7 @@ const spanishVerbs = [
                 ellos: "lograrían"
             },
             imperative: {
+                yo: "-",
                 tú: "logra",
                 él: "logre",
                 nosotros: "logremos",
@@ -5251,6 +5326,7 @@ const spanishVerbs = [
                 ellos: "comerían"
             },
             imperative: {
+                yo: "-",
                 tú: "come",
                 él: "coma",
                 nosotros: "comamos",
@@ -5305,6 +5381,7 @@ const spanishVerbs = [
                 ellos: "sentarían"
             },
             imperative: {
+                yo: "-",
                 tú: "sienta",
                 él: "siente",
                 nosotros: "sentemos",
@@ -5359,6 +5436,7 @@ const spanishVerbs = [
                 ellos: "ganarían"
             },
             imperative: {
+                yo: "-",
                 tú: "gana",
                 él: "gane",
                 nosotros: "ganemos",
@@ -5413,6 +5491,7 @@ const spanishVerbs = [
                 ellos: "moverían"
             },
             imperative: {
+                yo: "-",
                 tú: "mueve",
                 él: "mueva",
                 nosotros: "movamos",
@@ -5467,6 +5546,7 @@ const spanishVerbs = [
                 ellos: "dormirían"
             },
             imperative: {
+                yo: "-",
                 tú: "duerme",
                 él: "duerma",
                 nosotros: "durmamos",
@@ -5521,6 +5601,7 @@ const spanishVerbs = [
                 ellos: "disfrutarían"
             },
             imperative: {
+                yo: "-",
                 tú: "disfruta",
                 él: "disfrute",
                 nosotros: "disfrutemos",
@@ -5575,6 +5656,7 @@ const spanishVerbs = [
                 ellos: "olvidarían"
             },
             imperative: {
+                yo: "-",
                 tú: "olvida",
                 él: "olvide",
                 nosotros: "olvidemos",
@@ -5629,6 +5711,7 @@ const spanishVerbs = [
                 ellos: "lanzarían"
             },
             imperative: {
+                yo: "-",
                 tú: "lanza",
                 él: "lance",
                 nosotros: "lancemos",
@@ -5683,6 +5766,7 @@ const spanishVerbs = [
                 ellos: "reirían"
             },
             imperative: {
+                yo: "-",
                 tú: "ríe",
                 él: "ría",
                 nosotros: "riamos",
@@ -5737,6 +5821,7 @@ const spanishVerbs = [
                 ellos: "aprenderían"
             },
             imperative: {
+                yo: "-",
                 tú: "aprende",
                 él: "aprenda",
                 nosotros: "aprendamos",
@@ -5791,6 +5876,7 @@ const spanishVerbs = [
                 ellos: "sonreirían"
             },
             imperative: {
+                yo: "-",
                 tú: "sonríe",
                 él: "sonría",
                 nosotros: "sonriamos",
@@ -5912,34 +5998,22 @@ function showConjugations(verb, tense = 'present') {
     }
 
     // Create heading
-    const heading = document.createElement('h3');
-    heading.textContent = `${tense.charAt(0).toUpperCase() + tense.slice(1)} Tense Conjugations`;
-    heading.style.marginTop = '10px';
-    conjugationsEl.appendChild(heading);
+    // const heading = document.createElement('h3');
+    // heading.textContent = `${tense.charAt(0).toUpperCase() + tense.slice(1)} Tense Conjugations`;
+    // heading.style.marginTop = '10px';
+    // conjugationsEl.appendChild(heading);
 
     // Create conjugation items
     let conjugationsList;
     
-    if (tense === 'imperative') {
-        // Special handling for imperative tense (no "yo" form)
-        conjugationsList = [
-            { pronoun: 'tú', form: conjugations.tú },
-            { pronoun: 'él/ella/Ud.', form: conjugations.él },
-            { pronoun: 'nosotros', form: conjugations.nosotros },
-            { pronoun: 'vosotros', form: conjugations.vosotros },
-            { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
-        ];
-    } else {
-        // Regular conjugations for other tenses
-        conjugationsList = [
-            { pronoun: 'yo', form: conjugations.yo },
-            { pronoun: 'tú', form: conjugations.tú },
-            { pronoun: 'él/ella/Ud.', form: conjugations.él },
-            { pronoun: 'nosotros', form: conjugations.nosotros },
-            { pronoun: 'vosotros', form: conjugations.vosotros },
-            { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
-        ];
-    }
+    conjugationsList = [
+        { pronoun: 'yo', form: conjugations.yo },
+        { pronoun: 'tú', form: conjugations.tú },
+        { pronoun: 'él/ella/Ud.', form: conjugations.él },
+        { pronoun: 'nosotros', form: conjugations.nosotros },
+        { pronoun: 'vosotros', form: conjugations.vosotros },
+        { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
+    ];
 
     conjugationsList.forEach(({ pronoun, form }) => {
         const div = document.createElement('div');
