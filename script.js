@@ -44,6 +44,14 @@ const spanishVerbs = [
                 nosotros: "seríamos",
                 vosotros: "seríais",
                 ellos: "serían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "sé",
+                él: "sea",
+                nosotros: "seamos",
+                vosotros: "sed",
+                ellos: "sean"
             }
         }
     },
@@ -91,6 +99,14 @@ const spanishVerbs = [
                 nosotros: "estaríamos",
                 vosotros: "estaríais",
                 ellos: "estarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "está",
+                él: "esté",
+                nosotros: "estemos",
+                vosotros: "estad",
+                ellos: "estén"
             }
         }
     },
@@ -138,6 +154,14 @@ const spanishVerbs = [
                 nosotros: "habríamos",
                 vosotros: "habríais",
                 ellos: "habrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "he",
+                él: "haya",
+                nosotros: "hayamos",
+                vosotros: "habed",
+                ellos: "hayan"
             }
         }
     },
@@ -185,6 +209,14 @@ const spanishVerbs = [
                 nosotros: "tendríamos",
                 vosotros: "tendríais",
                 ellos: "tendrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "ten",
+                él: "tenga",
+                nosotros: "tengamos",
+                vosotros: "tened",
+                ellos: "tengan"
             }
         }
     },
@@ -232,6 +264,14 @@ const spanishVerbs = [
                 nosotros: "haríamos",
                 vosotros: "haríais",
                 ellos: "harían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "haz",
+                él: "haga",
+                nosotros: "hagamos",
+                vosotros: "haced",
+                ellos: "hagan"
             }
         }
     },
@@ -279,6 +319,14 @@ const spanishVerbs = [
                 nosotros: "podríamos",
                 vosotros: "podríais",
                 ellos: "podrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "puede",
+                él: "pueda",
+                nosotros: "podamos",
+                vosotros: "poded",
+                ellos: "puedan"
             }
         }
     },
@@ -326,6 +374,14 @@ const spanishVerbs = [
                 nosotros: "diríamos",
                 vosotros: "diríais",
                 ellos: "dirían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "di",
+                él: "diga",
+                nosotros: "digamos",
+                vosotros: "decid",
+                ellos: "digan"
             }
         }
     },
@@ -373,6 +429,14 @@ const spanishVerbs = [
                 nosotros: "iríamos",
                 vosotros: "iríais",
                 ellos: "irían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "ve",
+                él: "vaya",
+                nosotros: "vayamos",
+                vosotros: "id",
+                ellos: "vayan"
             }
         }
     },
@@ -420,6 +484,14 @@ const spanishVerbs = [
                 nosotros: "veríamos",
                 vosotros: "veríais",
                 ellos: "verían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "ve",
+                él: "vea",
+                nosotros: "veamos",
+                vosotros: "ved",
+                ellos: "vean"
             }
         }
     },
@@ -467,6 +539,14 @@ const spanishVerbs = [
                 nosotros: "daríamos",
                 vosotros: "daríais",
                 ellos: "darían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "da",
+                él: "dé",
+                nosotros: "demos",
+                vosotros: "dad",
+                ellos: "den"
             }
         }
     },
@@ -514,6 +594,14 @@ const spanishVerbs = [
                 nosotros: "sabríamos",
                 vosotros: "sabríais",
                 ellos: "sabrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "sabe",
+                él: "sepa",
+                nosotros: "sepamos",
+                vosotros: "sabed",
+                ellos: "sepan"
             }
         }
     },
@@ -561,6 +649,14 @@ const spanishVerbs = [
                 nosotros: "querríamos",
                 vosotros: "querríais",
                 ellos: "querrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "quiere",
+                él: "quiera",
+                nosotros: "queramos",
+                vosotros: "quered",
+                ellos: "quieran"
             }
         }
     },
@@ -608,6 +704,14 @@ const spanishVerbs = [
                 nosotros: "llegaríamos",
                 vosotros: "llegaríais",
                 ellos: "llegarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "llega",
+                él: "llegue",
+                nosotros: "lleguemos",
+                vosotros: "llegad",
+                ellos: "lleguen"
             }
         }
     },
@@ -655,6 +759,14 @@ const spanishVerbs = [
                 nosotros: "pasaríamos",
                 vosotros: "pasaríais",
                 ellos: "pasarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "pasa",
+                él: "pase",
+                nosotros: "pasemos",
+                vosotros: "pasad",
+                ellos: "pasen"
             }
         }
     },
@@ -702,6 +814,14 @@ const spanishVerbs = [
                 nosotros: "deberíamos",
                 vosotros: "deberíais",
                 ellos: "deberían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "debe",
+                él: "deba",
+                nosotros: "debamos",
+                vosotros: "debed",
+                ellos: "deban"
             }
         }
     },
@@ -749,6 +869,14 @@ const spanishVerbs = [
                 nosotros: "pondríamos",
                 vosotros: "pondríais",
                 ellos: "pondrían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "pon",
+                él: "ponga",
+                nosotros: "pongamos",
+                vosotros: "poned",
+                ellos: "pongan"
             }
         }
     },
@@ -796,6 +924,14 @@ const spanishVerbs = [
                 nosotros: "pareceríamos",
                 vosotros: "pareceríais",
                 ellos: "parecerían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "parece",
+                él: "parezca",
+                nosotros: "parezcamos",
+                vosotros: "pareced",
+                ellos: "parezcan"
             }
         }
     },
@@ -843,6 +979,14 @@ const spanishVerbs = [
                 nosotros: "quedaríamos",
                 vosotros: "quedaríais",
                 ellos: "quedarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "queda",
+                él: "quede",
+                nosotros: "quedemos",
+                vosotros: "quedad",
+                ellos: "queden"
             }
         }
     },
@@ -890,6 +1034,14 @@ const spanishVerbs = [
                 nosotros: "creeríamos",
                 vosotros: "creeríais",
                 ellos: "creerían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "cree",
+                él: "crea",
+                nosotros: "creamos",
+                vosotros: "creed",
+                ellos: "crean"
             }
         }
     },
@@ -937,6 +1089,14 @@ const spanishVerbs = [
                 nosotros: "hablaríamos",
                 vosotros: "hablaríais",
                 ellos: "hablarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "habla",
+                él: "hable",
+                nosotros: "hablemos",
+                vosotros: "hablad",
+                ellos: "hablen"
             }
         }
     },
@@ -984,6 +1144,14 @@ const spanishVerbs = [
                 nosotros: "llevaríamos",
                 vosotros: "llevaríais",
                 ellos: "llevarían"
+            },
+            imperative: {
+                yo: "-",
+                tú: "lleva",
+                él: "lleve",
+                nosotros: "llevemos",
+                vosotros: "llevad",
+                ellos: "lleven"
             }
         }
     },
@@ -1031,6 +1199,13 @@ const spanishVerbs = [
                 nosotros: "dejaríamos",
                 vosotros: "dejaríais",
                 ellos: "dejarían"
+            },
+            imperative: {
+                tú: "deja",
+                él: "deje",
+                nosotros: "dejemos",
+                vosotros: "dejad",
+                ellos: "dejen"
             }
         }
     },
@@ -1078,6 +1253,13 @@ const spanishVerbs = [
                 nosotros: "seguiríamos",
                 vosotros: "seguiríais",
                 ellos: "seguirían"
+            },
+            imperative: {
+                tú: "sigue",
+                él: "siga",
+                nosotros: "sigamos",
+                vosotros: "seguid",
+                ellos: "sigan"
             }
         }
     },
@@ -1125,6 +1307,13 @@ const spanishVerbs = [
                 nosotros: "encontraríamos",
                 vosotros: "encontraríais",
                 ellos: "encontrarían"
+            },
+            imperative: {
+                tú: "encuentra",
+                él: "encuentre",
+                nosotros: "encontremos",
+                vosotros: "encontrad",
+                ellos: "encuentren"
             }
         }
     },
@@ -1172,6 +1361,13 @@ const spanishVerbs = [
                 nosotros: "llamaríamos",
                 vosotros: "llamaríais",
                 ellos: "llamarían"
+            },
+            imperative: {
+                tú: "llama",
+                él: "llame",
+                nosotros: "llamemos",
+                vosotros: "llamad",
+                ellos: "llamen"
             }
         }
     },
@@ -1219,6 +1415,13 @@ const spanishVerbs = [
                 nosotros: "vendríamos",
                 vosotros: "vendríais",
                 ellos: "vendrían"
+            },
+            imperative: {
+                tú: "ven",
+                él: "venga",
+                nosotros: "vengamos",
+                vosotros: "venid",
+                ellos: "vengan"
             }
         }
     },
@@ -1266,6 +1469,13 @@ const spanishVerbs = [
                 nosotros: "pensaríamos",
                 vosotros: "pensaríais",
                 ellos: "pensarían"
+            },
+            imperative: {
+                tú: "piensa",
+                él: "piense",
+                nosotros: "pensemos",
+                vosotros: "pensad",
+                ellos: "piensen"
             }
         }
     },
@@ -1310,9 +1520,16 @@ const spanishVerbs = [
                 yo: "saldría",
                 tú: "saldrías",
                 él: "saldría",
-                nosotros: "saldríamos",
+                nosotros: "salgamos",
                 vosotros: "saldríais",
                 ellos: "saldrían"
+            },
+            imperative: {
+                tú: "sal",
+                él: "salga",
+                nosotros: "salgamos",
+                vosotros: "salid",
+                ellos: "salgan"
             }
         }
     },
@@ -1360,6 +1577,13 @@ const spanishVerbs = [
                 nosotros: "volveríamos",
                 vosotros: "volveríais",
                 ellos: "volverían"
+            },
+            imperative: {
+                tú: "vuelve",
+                él: "vuelva",
+                nosotros: "volvamos",
+                vosotros: "volved",
+                ellos: "vuelvan"
             }
         }
     },
@@ -1407,6 +1631,13 @@ const spanishVerbs = [
                 nosotros: "tomaríamos",
                 vosotros: "tomaríais",
                 ellos: "tomarían"
+            },
+            imperative: {
+                tú: "toma",
+                él: "tome",
+                nosotros: "tomemos",
+                vosotros: "tomad",
+                ellos: "tomen"
             }
         }
     },
@@ -1454,6 +1685,13 @@ const spanishVerbs = [
                 nosotros: "conoceríamos",
                 vosotros: "conoceríais",
                 ellos: "conocerían"
+            },
+            imperative: {
+                tú: "conoce",
+                él: "conozca",
+                nosotros: "conozcamos",
+                vosotros: "conoced",
+                ellos: "conozcan"
             }
         }
     },
@@ -1501,6 +1739,13 @@ const spanishVerbs = [
                 nosotros: "viviríamos",
                 vosotros: "viviríais",
                 ellos: "vivirían"
+            },
+            imperative: {
+                tú: "vive",
+                él: "viva",
+                nosotros: "vivamos",
+                vosotros: "vivid",
+                ellos: "vivan"
             }
         }
     },
@@ -1548,6 +1793,13 @@ const spanishVerbs = [
                 nosotros: "sentiríamos",
                 vosotros: "sentiríais",
                 ellos: "sentirían"
+            },
+            imperative: {
+                tú: "siente",
+                él: "sienta",
+                nosotros: "sintamos",
+                vosotros: "sentid",
+                ellos: "sientan"
             }
         }
     },
@@ -1595,6 +1847,13 @@ const spanishVerbs = [
                 nosotros: "trataríamos",
                 vosotros: "trataríais",
                 ellos: "tratarían"
+            },
+            imperative: {
+                tú: "trata",
+                él: "trate",
+                nosotros: "tratemos",
+                vosotros: "tratad",
+                ellos: "traten"
             }
         }
     },
@@ -1641,7 +1900,14 @@ const spanishVerbs = [
                 él: "miraría",
                 nosotros: "miraríamos",
                 vosotros: "miraríais",
-                ellos: "mirarían"
+                ellos: "miraríamos"
+            },
+            imperative: {
+                tú: "mira",
+                él: "mire",
+                nosotros: "miremos",
+                vosotros: "mirad",
+                ellos: "miren"
             }
         }
     },
@@ -1689,6 +1955,13 @@ const spanishVerbs = [
                 nosotros: "contaríamos",
                 vosotros: "contaríais",
                 ellos: "contarían"
+            },
+            imperative: {
+                tú: "cuenta",
+                él: "cuente",
+                nosotros: "contemos",
+                vosotros: "contad",
+                ellos: "cuenten"
             }
         }
     },
@@ -1736,6 +2009,13 @@ const spanishVerbs = [
                 nosotros: "empezaríamos",
                 vosotros: "empezaríais",
                 ellos: "empezarían"
+            },
+            imperative: {
+                tú: "empieza",
+                él: "empiece",
+                nosotros: "empecemos",
+                vosotros: "empezad",
+                ellos: "empiecen"
             }
         }
     },
@@ -1783,6 +2063,13 @@ const spanishVerbs = [
                 nosotros: "esperaríamos",
                 vosotros: "esperaríais",
                 ellos: "esperarían"
+            },
+            imperative: {
+                tú: "espera",
+                él: "espere",
+                nosotros: "esperemos",
+                vosotros: "esperad",
+                ellos: "esperen"
             }
         }
     },
@@ -1830,6 +2117,13 @@ const spanishVerbs = [
                 nosotros: "buscaríamos",
                 vosotros: "buscaríais",
                 ellos: "buscarían"
+            },
+            imperative: {
+                tú: "busca",
+                él: "busque",
+                nosotros: "busquemos",
+                vosotros: "buscad",
+                ellos: "busquen"
             }
         }
     },
@@ -1877,6 +2171,13 @@ const spanishVerbs = [
                 nosotros: "existiríamos",
                 vosotros: "existiríais",
                 ellos: "existirían"
+            },
+            imperative: {
+                tú: "existe",
+                él: "exista",
+                nosotros: "existamos",
+                vosotros: "existid",
+                ellos: "existan"
             }
         }
     },
@@ -1924,6 +2225,13 @@ const spanishVerbs = [
                 nosotros: "entraríamos",
                 vosotros: "entraríais",
                 ellos: "entrarían"
+            },
+            imperative: {
+                tú: "entra",
+                él: "entre",
+                nosotros: "entremos",
+                vosotros: "entrad",
+                ellos: "entren"
             }
         }
     },
@@ -1971,6 +2279,13 @@ const spanishVerbs = [
                 nosotros: "trabajaríamos",
                 vosotros: "trabajaríais",
                 ellos: "trabajarían"
+            },
+            imperative: {
+                tú: "trabaja",
+                él: "trabaje",
+                nosotros: "trabajemos",
+                vosotros: "trabajad",
+                ellos: "trabajen"
             }
         }
     },
@@ -2015,9 +2330,16 @@ const spanishVerbs = [
                 yo: "escribiría",
                 tú: "escribirías",
                 él: "escribiría",
-                nosotros: "escribiríamos",
+                nosotros: "escribiremos",
                 vosotros: "escribiríais",
                 ellos: "escribirían"
+            },
+            imperative: {
+                tú: "escribe",
+                él: "escriba",
+                nosotros: "escribamos",
+                vosotros: "escribid",
+                ellos: "escriban"
             }
         }
     },
@@ -2065,6 +2387,13 @@ const spanishVerbs = [
                 nosotros: "perderíamos",
                 vosotros: "perderíais",
                 ellos: "perderían"
+            },
+            imperative: {
+                tú: "pierde",
+                él: "pierda",
+                nosotros: "perdamos",
+                vosotros: "perded",
+                ellos: "pierdan"
             }
         }
     },
@@ -2086,7 +2415,7 @@ const spanishVerbs = [
                 tú: "produjiste",
                 él: "produjo",
                 nosotros: "produjimos",
-                vosotros: "produjisteis",
+                vosotros: "producisteis",
                 ellos: "produjeron"
             },
             imperfect: {
@@ -2112,6 +2441,13 @@ const spanishVerbs = [
                 nosotros: "produciríamos",
                 vosotros: "produciríais",
                 ellos: "producirían"
+            },
+            imperative: {
+                tú: "produce",
+                él: "produzca",
+                nosotros: "produzcamos",
+                vosotros: "producid",
+                ellos: "produzcan"
             }
         }
     },
@@ -2159,6 +2495,13 @@ const spanishVerbs = [
                 nosotros: "ocurriríamos",
                 vosotros: "ocurriríais",
                 ellos: "ocurrirían"
+            },
+            imperative: {
+                tú: "ocurre",
+                él: "ocurra",
+                nosotros: "ocurramos",
+                vosotros: "ocurrid",
+                ellos: "ocurran"
             }
         }
     },
@@ -2206,6 +2549,13 @@ const spanishVerbs = [
                 nosotros: "entenderíamos",
                 vosotros: "entenderíais",
                 ellos: "entenderían"
+            },
+            imperative: {
+                tú: "entiende",
+                él: "entienda",
+                nosotros: "entendamos",
+                vosotros: "entended",
+                ellos: "entiendan"
             }
         }
     },
@@ -2253,6 +2603,13 @@ const spanishVerbs = [
                 nosotros: "pediríamos",
                 vosotros: "pediríais",
                 ellos: "pedirían"
+            },
+            imperative: {
+                tú: "pide",
+                él: "pida",
+                nosotros: "pidamos",
+                vosotros: "pedid",
+                ellos: "pidan"
             }
         }
     },
@@ -2297,9 +2654,16 @@ const spanishVerbs = [
                 yo: "recibiría",
                 tú: "recibirías",
                 él: "recibiría",
-                nosotros: "recibiríamos",
+                nosotros: "recibiremos",
                 vosotros: "recibiríais",
                 ellos: "recibirían"
+            },
+            imperative: {
+                tú: "recibe",
+                él: "reciba",
+                nosotros: "recibamos",
+                vosotros: "recibid",
+                ellos: "reciban"
             }
         }
     },
@@ -2347,6 +2711,13 @@ const spanishVerbs = [
                 nosotros: "recordaríamos",
                 vosotros: "recordaríais",
                 ellos: "recordarían"
+            },
+            imperative: {
+                tú: "recuerda",
+                él: "recuerde",
+                nosotros: "recordemos",
+                vosotros: "recordad",
+                ellos: "recuerden"
             }
         }
     },
@@ -2394,6 +2765,13 @@ const spanishVerbs = [
                 nosotros: "terminaríamos",
                 vosotros: "terminaríais",
                 ellos: "terminarían"
+            },
+            imperative: {
+                tú: "termina",
+                él: "termine",
+                nosotros: "terminemos",
+                vosotros: "terminad",
+                ellos: "terminen"
             }
         }
     },
@@ -2441,6 +2819,13 @@ const spanishVerbs = [
                 nosotros: "permitiríamos",
                 vosotros: "permitiríais",
                 ellos: "permitirían"
+            },
+            imperative: {
+                tú: "permite",
+                él: "permita",
+                nosotros: "permitamos",
+                vosotros: "permitid",
+                ellos: "permitan"
             }
         }
     },
@@ -2488,6 +2873,13 @@ const spanishVerbs = [
                 nosotros: "apareceríamos",
                 vosotros: "apareceríais",
                 ellos: "aparecerían"
+            },
+            imperative: {
+                tú: "aparece",
+                él: "aparezca",
+                nosotros: "aparezcamos",
+                vosotros: "apareced",
+                ellos: "aparezcan"
             }
         }
     },
@@ -2535,6 +2927,13 @@ const spanishVerbs = [
                 nosotros: "conseguiríamos",
                 vosotros: "conseguiríais",
                 ellos: "conseguirían"
+            },
+            imperative: {
+                tú: "consigue",
+                él: "consiga",
+                nosotros: "consigamos",
+                vosotros: "conseguid",
+                ellos: "consigan"
             }
         }
     },
@@ -2582,6 +2981,13 @@ const spanishVerbs = [
                 nosotros: "serviríamos",
                 vosotros: "serviríais",
                 ellos: "servirían"
+            },
+            imperative: {
+                tú: "sirve",
+                él: "sirva",
+                nosotros: "sirvamos",
+                vosotros: "servid",
+                ellos: "sirvan"
             }
         }
     },
@@ -2629,6 +3035,13 @@ const spanishVerbs = [
                 nosotros: "sacaríamos",
                 vosotros: "sacaríais",
                 ellos: "sacarían"
+            },
+            imperative: {
+                tú: "saca",
+                él: "saque",
+                nosotros: "saquemos",
+                vosotros: "sacad",
+                ellos: "saquen"
             }
         }
     },
@@ -2676,6 +3089,13 @@ const spanishVerbs = [
                 nosotros: "necesitaríamos",
                 vosotros: "necesitaríais",
                 ellos: "necesitarían"
+            },
+            imperative: {
+                tú: "necesita",
+                él: "necesite",
+                nosotros: "necesitemos",
+                vosotros: "necesitad",
+                ellos: "necesiten"
             }
         }
     },
@@ -2698,7 +3118,7 @@ const spanishVerbs = [
                 él: "mantuvo",
                 nosotros: "mantuvimos",
                 vosotros: "mantuvisteis",
-                ellos: "mantuvieron"
+                ellos: "mantuuvieron"
             },
             imperfect: {
                 yo: "mantenía",
@@ -2723,6 +3143,13 @@ const spanishVerbs = [
                 nosotros: "mantendríamos",
                 vosotros: "mantendríais",
                 ellos: "mantendrían"
+            },
+            imperative: {
+                tú: "mantén",
+                él: "mantenga",
+                nosotros: "mantengamos",
+                vosotros: "mantened",
+                ellos: "mantengan"
             }
         }
     },
@@ -2770,6 +3197,13 @@ const spanishVerbs = [
                 nosotros: "comenzaríamos",
                 vosotros: "comenzaríais",
                 ellos: "comenzarían"
+            },
+            imperative: {
+                tú: "comienza",
+                él: "comience",
+                nosotros: "comencemos",
+                vosotros: "comenzad",
+                ellos: "comiencen"
             }
         }
     },
@@ -2817,6 +3251,13 @@ const spanishVerbs = [
                 nosotros: "resultaríamos",
                 vosotros: "resultaríais",
                 ellos: "resultarían"
+            },
+            imperative: {
+                tú: "resulta",
+                él: "resulte",
+                nosotros: "resultemos",
+                vosotros: "resultad",
+                ellos: "resulten"
             }
         }
     },
@@ -2864,6 +3305,13 @@ const spanishVerbs = [
                 nosotros: "leeríamos",
                 vosotros: "leeríais",
                 ellos: "leerían"
+            },
+            imperative: {
+                tú: "lee",
+                él: "lea",
+                nosotros: "leamos",
+                vosotros: "leed",
+                ellos: "lean"
             }
         }
     },
@@ -2911,6 +3359,13 @@ const spanishVerbs = [
                 nosotros: "caeríamos",
                 vosotros: "caeríais",
                 ellos: "caerían"
+            },
+            imperative: {
+                tú: "cae",
+                él: "caiga",
+                nosotros: "caigamos",
+                vosotros: "caed",
+                ellos: "caigan"
             }
         }
     },
@@ -2958,6 +3413,13 @@ const spanishVerbs = [
                 nosotros: "cambiaríamos",
                 vosotros: "cambiaríais",
                 ellos: "cambiarían"
+            },
+            imperative: {
+                tú: "cambia",
+                él: "cambie",
+                nosotros: "cambiemos",
+                vosotros: "cambiad",
+                ellos: "cambien"
             }
         }
     },
@@ -3005,6 +3467,13 @@ const spanishVerbs = [
                 nosotros: "presentaríamos",
                 vosotros: "presentaríais",
                 ellos: "presentarían"
+            },
+            imperative: {
+                tú: "presenta",
+                él: "presente",
+                nosotros: "presentemos",
+                vosotros: "presentad",
+                ellos: "presenten"
             }
         }
     },
@@ -3052,6 +3521,13 @@ const spanishVerbs = [
                 nosotros: "crearíamos",
                 vosotros: "crearíais",
                 ellos: "crearían"
+            },
+            imperative: {
+                tú: "crea",
+                él: "cree",
+                nosotros: "creemos",
+                vosotros: "cread",
+                ellos: "creen"
             }
         }
     },
@@ -3099,6 +3575,13 @@ const spanishVerbs = [
                 nosotros: "abriríamos",
                 vosotros: "abriríais",
                 ellos: "abrirían"
+            },
+            imperative: {
+                tú: "abre",
+                él: "abra",
+                nosotros: "abramos",
+                vosotros: "abrid",
+                ellos: "abran"
             }
         }
     },
@@ -3146,6 +3629,13 @@ const spanishVerbs = [
                 nosotros: "consideraríamos",
                 vosotros: "consideraríais",
                 ellos: "considerarían"
+            },
+            imperative: {
+                tú: "considera",
+                él: "considere",
+                nosotros: "consideremos",
+                vosotros: "considerad",
+                ellos: "consideren"
             }
         }
     },
@@ -3193,6 +3683,13 @@ const spanishVerbs = [
                 nosotros: "oiríamos",
                 vosotros: "oiríais",
                 ellos: "oirían"
+            },
+            imperative: {
+                tú: "oye",
+                él: "oiga",
+                nosotros: "oigamos",
+                vosotros: "oíd",
+                ellos: "oigan"
             }
         }
     },
@@ -3240,6 +3737,13 @@ const spanishVerbs = [
                 nosotros: "acabaríamos",
                 vosotros: "acabaríais",
                 ellos: "acabarían"
+            },
+            imperative: {
+                tú: "acaba",
+                él: "acabe",
+                nosotros: "acabemos",
+                vosotros: "acabad",
+                ellos: "acaben"
             }
         }
     },
@@ -3287,6 +3791,13 @@ const spanishVerbs = [
                 nosotros: "explicaríamos",
                 vosotros: "explicaríais",
                 ellos: "explicarían"
+            },
+            imperative: {
+                tú: "explica",
+                él: "explique",
+                nosotros: "expliquemos",
+                vosotros: "explicad",
+                ellos: "expliquen"
             }
         }
     },
@@ -3330,10 +3841,17 @@ const spanishVerbs = [
             conditional: {
                 yo: "tocaría",
                 tú: "tocarías",
-                él: "tocaría",
+                él: "tocarías",
                 nosotros: "tocaríamos",
                 vosotros: "tocaríais",
                 ellos: "tocarían"
+            },
+            imperative: {
+                tú: "toca",
+                él: "toque",
+                nosotros: "toquemos",
+                vosotros: "tocad",
+                ellos: "toquen"
             }
         }
     },
@@ -3381,6 +3899,13 @@ const spanishVerbs = [
                 nosotros: "reconoceríamos",
                 vosotros: "reconoceríais",
                 ellos: "reconocerían"
+            },
+            imperative: {
+                tú: "reconoce",
+                él: "reconozca",
+                nosotros: "reconozcamos",
+                vosotros: "reconoced",
+                ellos: "reconozcan"
             }
         }
     },
@@ -3428,6 +3953,13 @@ const spanishVerbs = [
                 nosotros: "estudiaríamos",
                 vosotros: "estudiaríais",
                 ellos: "estudiarían"
+            },
+            imperative: {
+                tú: "estudia",
+                él: "estudie",
+                nosotros: "estudiemos",
+                vosotros: "estudiad",
+                ellos: "estudien"
             }
         }
     },
@@ -3475,6 +4007,13 @@ const spanishVerbs = [
                 nosotros: "alcanzaríamos",
                 vosotros: "alcanzaríais",
                 ellos: "alcanzarían"
+            },
+            imperative: {
+                tú: "alcanza",
+                él: "alcance",
+                nosotros: "alcancemos",
+                vosotros: "alcanzad",
+                ellos: "alcancen"
             }
         }
     },
@@ -3522,6 +4061,13 @@ const spanishVerbs = [
                 nosotros: "naceríamos",
                 vosotros: "naceríais",
                 ellos: "nacerían"
+            },
+            imperative: {
+                tú: "nace",
+                él: "nazca",
+                nosotros: "nazcamos",
+                vosotros: "naced",
+                ellos: "nazcan"
             }
         }
     },
@@ -3569,6 +4115,13 @@ const spanishVerbs = [
                 nosotros: "dirigiríamos",
                 vosotros: "dirigiríais",
                 ellos: "dirigirían"
+            },
+            imperative: {
+                tú: "dirige",
+                él: "dirija",
+                nosotros: "dirijamos",
+                vosotros: "dirigid",
+                ellos: "dirijan"
             }
         }
     },
@@ -3616,6 +4169,13 @@ const spanishVerbs = [
                 nosotros: "correríamos",
                 vosotros: "correríais",
                 ellos: "correrían"
+            },
+            imperative: {
+                tú: "corre",
+                él: "corra",
+                nosotros: "corramos",
+                vosotros: "corred",
+                ellos: "corran"
             }
         }
     },
@@ -3663,6 +4223,13 @@ const spanishVerbs = [
                 nosotros: "utilizaríamos",
                 vosotros: "utilizaríais",
                 ellos: "utilizarían"
+            },
+            imperative: {
+                tú: "utiliza",
+                él: "utilice",
+                nosotros: "utilicemos",
+                vosotros: "utilizad",
+                ellos: "utilicen"
             }
         }
     },
@@ -3710,6 +4277,13 @@ const spanishVerbs = [
                 nosotros: "pagaríamos",
                 vosotros: "pagaríais",
                 ellos: "pagarían"
+            },
+            imperative: {
+                tú: "paga",
+                él: "pague",
+                nosotros: "paguemos",
+                vosotros: "pagad",
+                ellos: "paguen"
             }
         }
     },
@@ -3757,6 +4331,13 @@ const spanishVerbs = [
                 nosotros: "ayudaríamos",
                 vosotros: "ayudaríais",
                 ellos: "ayudarían"
+            },
+            imperative: {
+                tú: "ayuda",
+                él: "ayude",
+                nosotros: "ayudemos",
+                vosotros: "ayudad",
+                ellos: "ayuden"
             }
         }
     },
@@ -3804,6 +4385,13 @@ const spanishVerbs = [
                 nosotros: "gustaríamos",
                 vosotros: "gustaríais",
                 ellos: "gustarían"
+            },
+            imperative: {
+                tú: "gusta",
+                él: "guste",
+                nosotros: "gustemos",
+                vosotros: "gustad",
+                ellos: "gusten"
             }
         }
     },
@@ -3851,6 +4439,13 @@ const spanishVerbs = [
                 nosotros: "jugaríamos",
                 vosotros: "jugaríais",
                 ellos: "jugarían"
+            },
+            imperative: {
+                tú: "juega",
+                él: "juegue",
+                nosotros: "juguemos",
+                vosotros: "jugad",
+                ellos: "jueguen"
             }
         }
     },
@@ -3898,6 +4493,13 @@ const spanishVerbs = [
                 nosotros: "ofreceríamos",
                 vosotros: "ofreceríais",
                 ellos: "ofrecerían"
+            },
+            imperative: {
+                tú: "ofrece",
+                él: "ofrezca",
+                nosotros: "ofrezcamos",
+                vosotros: "ofreced",
+                ellos: "ofrezcan"
             }
         }
     },
@@ -3945,6 +4547,13 @@ const spanishVerbs = [
                 nosotros: "descubriríamos",
                 vosotros: "descubriríais",
                 ellos: "descubrirían"
+            },
+            imperative: {
+                tú: "descubre",
+                él: "descubra",
+                nosotros: "descubramos",
+                vosotros: "descubrid",
+                ellos: "descubran"
             }
         }
     },
@@ -3992,6 +4601,13 @@ const spanishVerbs = [
                 nosotros: "levantaríamos",
                 vosotros: "levantaríais",
                 ellos: "levantarían"
+            },
+            imperative: {
+                tú: "levanta",
+                él: "levante",
+                nosotros: "levantemos",
+                vosotros: "levantad",
+                ellos: "levanten"
             }
         }
     },
@@ -4039,6 +4655,13 @@ const spanishVerbs = [
                 nosotros: "intentaríamos",
                 vosotros: "intentaríais",
                 ellos: "intentarían"
+            },
+            imperative: {
+                tú: "intenta",
+                él: "intente",
+                nosotros: "intentemos",
+                vosotros: "intentad",
+                ellos: "intenten"
             }
         }
     },
@@ -4086,6 +4709,13 @@ const spanishVerbs = [
                 nosotros: "usaríamos",
                 vosotros: "usaríais",
                 ellos: "usarían"
+            },
+            imperative: {
+                tú: "usa",
+                él: "use",
+                nosotros: "usemos",
+                vosotros: "usad",
+                ellos: "usen"
             }
         }
     },
@@ -4133,6 +4763,13 @@ const spanishVerbs = [
                 nosotros: "formaríamos",
                 vosotros: "formaríais",
                 ellos: "formarían"
+            },
+            imperative: {
+                tú: "forma",
+                él: "forme",
+                nosotros: "formemos",
+                vosotros: "formad",
+                ellos: "formen"
             }
         }
     },
@@ -4180,6 +4817,13 @@ const spanishVerbs = [
                 nosotros: "traeríamos",
                 vosotros: "traeríais",
                 ellos: "traerían"
+            },
+            imperative: {
+                tú: "trae",
+                él: "traiga",
+                nosotros: "traigamos",
+                vosotros: "traed",
+                ellos: "traigan"
             }
         }
     },
@@ -4227,6 +4871,13 @@ const spanishVerbs = [
                 nosotros: "partiríamos",
                 vosotros: "partiríais",
                 ellos: "partirían"
+            },
+            imperative: {
+                tú: "parte",
+                él: "parta",
+                nosotros: "partamos",
+                vosotros: "partid",
+                ellos: "partan"
             }
         }
     },
@@ -4274,6 +4925,13 @@ const spanishVerbs = [
                 nosotros: "moriríamos",
                 vosotros: "moriríais",
                 ellos: "morirían"
+            },
+            imperative: {
+                tú: "muere",
+                él: "muera",
+                nosotros: "muramos",
+                vosotros: "morid",
+                ellos: "mueran"
             }
         }
     },
@@ -4321,6 +4979,13 @@ const spanishVerbs = [
                 nosotros: "aceptaríamos",
                 vosotros: "aceptaríais",
                 ellos: "aceptarían"
+            },
+            imperative: {
+                tú: "acepta",
+                él: "acepte",
+                nosotros: "aceptemos",
+                vosotros: "aceptad",
+                ellos: "acepten"
             }
         }
     },
@@ -4368,6 +5033,13 @@ const spanishVerbs = [
                 nosotros: "realizaríamos",
                 vosotros: "realizaríais",
                 ellos: "realizarían"
+            },
+            imperative: {
+                tú: "realiza",
+                él: "realice",
+                nosotros: "realicemos",
+                vosotros: "realizad",
+                ellos: "realicen"
             }
         }
     },
@@ -4415,6 +5087,13 @@ const spanishVerbs = [
                 nosotros: "supondríamos",
                 vosotros: "supondríais",
                 ellos: "supondrían"
+            },
+            imperative: {
+                tú: "supón",
+                él: "suponga",
+                nosotros: "supongamos",
+                vosotros: "suponed",
+                ellos: "supongan"
             }
         }
     },
@@ -4462,6 +5141,13 @@ const spanishVerbs = [
                 nosotros: "comprenderíamos",
                 vosotros: "comprenderíais",
                 ellos: "comprenderían"
+            },
+            imperative: {
+                tú: "comprende",
+                él: "comprenda",
+                nosotros: "comprendamos",
+                vosotros: "comprended",
+                ellos: "comprendan"
             }
         }
     },
@@ -4509,6 +5195,13 @@ const spanishVerbs = [
                 nosotros: "lograríamos",
                 vosotros: "lograríais",
                 ellos: "lograrían"
+            },
+            imperative: {
+                tú: "logra",
+                él: "logre",
+                nosotros: "logremos",
+                vosotros: "lograd",
+                ellos: "logren"
             }
         }
     },
@@ -4556,6 +5249,13 @@ const spanishVerbs = [
                 nosotros: "comeríamos",
                 vosotros: "comeríais",
                 ellos: "comerían"
+            },
+            imperative: {
+                tú: "come",
+                él: "coma",
+                nosotros: "comamos",
+                vosotros: "comed",
+                ellos: "coman"
             }
         }
     },
@@ -4603,6 +5303,13 @@ const spanishVerbs = [
                 nosotros: "sentaríamos",
                 vosotros: "sentaríais",
                 ellos: "sentarían"
+            },
+            imperative: {
+                tú: "sienta",
+                él: "siente",
+                nosotros: "sentemos",
+                vosotros: "sentad",
+                ellos: "sienten"
             }
         }
     },
@@ -4650,6 +5357,13 @@ const spanishVerbs = [
                 nosotros: "ganaríamos",
                 vosotros: "ganaríais",
                 ellos: "ganarían"
+            },
+            imperative: {
+                tú: "gana",
+                él: "gane",
+                nosotros: "ganemos",
+                vosotros: "ganad",
+                ellos: "ganen"
             }
         }
     },
@@ -4697,6 +5411,13 @@ const spanishVerbs = [
                 nosotros: "moveríamos",
                 vosotros: "moveríais",
                 ellos: "moverían"
+            },
+            imperative: {
+                tú: "mueve",
+                él: "mueva",
+                nosotros: "movamos",
+                vosotros: "moved",
+                ellos: "muevan"
             }
         }
     },
@@ -4744,6 +5465,13 @@ const spanishVerbs = [
                 nosotros: "dormiríamos",
                 vosotros: "dormiríais",
                 ellos: "dormirían"
+            },
+            imperative: {
+                tú: "duerme",
+                él: "duerma",
+                nosotros: "durmamos",
+                vosotros: "dormid",
+                ellos: "duerman"
             }
         }
     },
@@ -4791,6 +5519,13 @@ const spanishVerbs = [
                 nosotros: "disfrutaríamos",
                 vosotros: "disfrutaríais",
                 ellos: "disfrutarían"
+            },
+            imperative: {
+                tú: "disfruta",
+                él: "disfrute",
+                nosotros: "disfrutemos",
+                vosotros: "disfrutad",
+                ellos: "disfruten"
             }
         }
     },
@@ -4838,6 +5573,13 @@ const spanishVerbs = [
                 nosotros: "olvidaríamos",
                 vosotros: "olvidaríais",
                 ellos: "olvidarían"
+            },
+            imperative: {
+                tú: "olvida",
+                él: "olvide",
+                nosotros: "olvidemos",
+                vosotros: "olvidad",
+                ellos: "olviden"
             }
         }
     },
@@ -4885,6 +5627,13 @@ const spanishVerbs = [
                 nosotros: "lanzaríamos",
                 vosotros: "lanzaríais",
                 ellos: "lanzarían"
+            },
+            imperative: {
+                tú: "lanza",
+                él: "lance",
+                nosotros: "lancemos",
+                vosotros: "lanzad",
+                ellos: "lancen"
             }
         }
     },
@@ -4932,6 +5681,13 @@ const spanishVerbs = [
                 nosotros: "reiríamos",
                 vosotros: "reiríais",
                 ellos: "reirían"
+            },
+            imperative: {
+                tú: "ríe",
+                él: "ría",
+                nosotros: "riamos",
+                vosotros: "reíd",
+                ellos: "rían"
             }
         }
     },
@@ -4979,6 +5735,13 @@ const spanishVerbs = [
                 nosotros: "aprenderíamos",
                 vosotros: "aprenderíais",
                 ellos: "aprenderían"
+            },
+            imperative: {
+                tú: "aprende",
+                él: "aprenda",
+                nosotros: "aprendamos",
+                vosotros: "aprended",
+                ellos: "aprendan"
             }
         }
     },
@@ -5026,6 +5789,13 @@ const spanishVerbs = [
                 nosotros: "sonreiríamos",
                 vosotros: "sonreiríais",
                 ellos: "sonreirían"
+            },
+            imperative: {
+                tú: "sonríe",
+                él: "sonría",
+                nosotros: "sonriamos",
+                vosotros: "sonreíd",
+                ellos: "sonrían"
             }
         }
     }
@@ -5102,7 +5872,7 @@ function showInfinitive(verb) {
     translationEl.textContent = verb.translation;
     conjugationsEl.classList.add('hidden');
     infinitiveEl.classList.remove('hidden');
-    translationEl.classList.remove('hidden');
+    translationEl.classList.add('hidden');
 }
 
 // Display the conjugations
@@ -5148,14 +5918,28 @@ function showConjugations(verb, tense = 'present') {
     conjugationsEl.appendChild(heading);
 
     // Create conjugation items
-    const conjugationsList = [
-        { pronoun: 'yo', form: conjugations.yo },
-        { pronoun: 'tú', form: conjugations.tú },
-        { pronoun: 'él/ella/Ud.', form: conjugations.él },
-        { pronoun: 'nosotros', form: conjugations.nosotros },
-        { pronoun: 'vosotros', form: conjugations.vosotros },
-        { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
-    ];
+    let conjugationsList;
+    
+    if (tense === 'imperative') {
+        // Special handling for imperative tense (no "yo" form)
+        conjugationsList = [
+            { pronoun: 'tú', form: conjugations.tú },
+            { pronoun: 'él/ella/Ud.', form: conjugations.él },
+            { pronoun: 'nosotros', form: conjugations.nosotros },
+            { pronoun: 'vosotros', form: conjugations.vosotros },
+            { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
+        ];
+    } else {
+        // Regular conjugations for other tenses
+        conjugationsList = [
+            { pronoun: 'yo', form: conjugations.yo },
+            { pronoun: 'tú', form: conjugations.tú },
+            { pronoun: 'él/ella/Ud.', form: conjugations.él },
+            { pronoun: 'nosotros', form: conjugations.nosotros },
+            { pronoun: 'vosotros', form: conjugations.vosotros },
+            { pronoun: 'ellos/ellas/Uds.', form: conjugations.ellos }
+        ];
+    }
 
     conjugationsList.forEach(({ pronoun, form }) => {
         const div = document.createElement('div');
