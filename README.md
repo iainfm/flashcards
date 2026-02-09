@@ -5,7 +5,7 @@ A web application for learning most common Spanish verbs using interactive flash
 ## Features
 
 - Over 100 of the most common Spanish verbs with English translations
-- Present tense conjugations for all six pronouns
+- Conjugations for all six pronouns
 - Interactive flashcard interface
 - Random verb selection to aid learning
 - Click/tap anywhere on the card or use the button to flip between views
@@ -48,10 +48,8 @@ Then visit `http://localhost:8080` in your browser.
 ## Screenshots
 
 ### Initial View - Verb Infinitive
-<img width="108" height="234" alt="Screenshot_20260208-120534" src="https://github.com/user-attachments/assets/ef50b820-b0ec-4b11-a4fd-e29f6b94bb0a" />
-
+<img width="108" height="234" alt="Screenshot_20260209-200408" src="https://github.com/user-attachments/assets/18578254-cb13-407a-85bb-70fe1c9fbe02" />
 
 ### Conjugations View
-<img width="108" height="234" alt="Screenshot_20260208-120543" src="https://github.com/user-attachments/assets/a01660ab-9bfd-4884-9fcf-13053376e9a7" />
-
+<img width="108" height="234" alt="Screenshot_20260209-200419" src="https://github.com/user-attachments/assets/b1f48785-37af-45ae-8652-34311f5d5681" />
 
