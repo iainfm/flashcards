@@ -1314,7 +1314,7 @@ const spanishVerbs = [
         }
     },
     {
-        infintive: "disfrutar",
+        infinitive: "disfrutar",
         regular: true,
         translation: "to enjoy",
         conjugations: {
