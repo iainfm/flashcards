@@ -1,23 +1,24 @@
-# Spanish Verb Flashcards
+# Spanish Flashcards
 
-A web application for learning most common Spanish verbs using interactive flashcards.
+A web application for learning the most common Spanish words using interactive flashcards. Practice verbs, nouns, adjectives, and adverbs!
 
 ## Features
 
-- Over 100 of the most common Spanish verbs with English translations
-- Conjugations for all six pronouns
+- Practice with Spanish verbs, nouns, adjectives, and adverbs
+- Over 100 of the most common words in each category, with English translations
+- Verbs include full conjugations for all six pronouns and tenses
 - Interactive flashcard interface
-- Random verb selection to aid learning
-- Click/tap anywhere on the card or use the button to flip between views
+- Random word selection to aid learning
+- Click/tap anywhere on the card to reveal the answer or get a new word
 - Mobile-responsive design
 - Beautiful gradient UI
 
 ## How to Use
 
 1. Open `index.html` in a web browser
-2. You'll see a Spanish verb infinitive with its English translation
-3. Click the card or the "Show Conjugations" button to see the present tense conjugations
-4. Click again (card or "Next Card" button) to see a new randomly-selected verb
+2. Choose the type of words you want to practice: verbs, nouns, adjectives, or adverbs
+3. On the flashcard page, click the card to reveal the English translation (or conjugations for verbs)
+4. Click again to get a new randomly-selected word
 5. Continue learning!
 
 ## Running Locally
@@ -41,15 +42,20 @@ Then visit `http://localhost:8080` in your browser.
 
 ## Files
 
-- `index.html` - Main HTML structure
+- `index.html` - Main menu to choose word type
+- `verbs.html`, `nouns.html`, `adjectives.html`, `adverbs.html` - Flashcard pages for each word type
+- `verbs-script.js`, `nouns-script.js`, `adjectives-script.js`, `adverbs-script.js` - JavaScript logic for each category
+- `verbs.js`, `nouns.js`, `adjectives.js`, `adverbs.js` - Word data for each category
 - `styles.css` - CSS styling and responsive design
-- `script.js` - JavaScript logic and verb data
 
 ## Screenshots
 
-### Initial View - Verb Infinitive
-<img width="108" height="234" alt="Screenshot_20260209-200408" src="https://github.com/user-attachments/assets/18578254-cb13-407a-85bb-70fe1c9fbe02" />
+### Main Menu
+![Main Menu Screenshot](screenshot-main-menu.png)
 
-### Conjugations View
-<img width="108" height="234" alt="Screenshot_20260209-200419" src="https://github.com/user-attachments/assets/b1f48785-37af-45ae-8652-34311f5d5681" />
+### Example Flashcard
+![Flashcard Screenshot](screenshot-flashcard.png)
+
+### Verb Conjugations View
+![Verb Conjugations Screenshot](screenshot-conjugations.png)
 
