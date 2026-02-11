@@ -25,7 +25,9 @@ A web application for learning the most common Spanish words using interactive f
 
 Simply open the `index.html` file in any modern web browser. No server or build process required.
 
-Alternatively, you can serve it with a simple HTTP server:
+Only verbs are supported for this method as the other types need to import their word lists as a javascript module.
+
+Alternatively, you can serve it locally with a simple HTTP server:
 
 ```bash
 # Using Python 3
@@ -40,6 +42,10 @@ php -S localhost:8080
 
 Then visit `http://localhost:8080` in your browser.
 
+## Published location
+
+The system is available online at [https://spanish.iainfm.co.uk](https://spanish.iainfm.co.uk). There is no login/registration required and ther are no cookies or other tracking on the site.
+
 ## Files
 
 - `index.html` - Main menu to choose word type
@@ -51,11 +57,14 @@ Then visit `http://localhost:8080` in your browser.
 ## Screenshots
 
 ### Main Menu
-![Main Menu Screenshot](screenshot-main-menu.png)
+<img width="108" height="219" alt="Screenshot_20260211-133433" src="https://github.com/user-attachments/assets/f9cd5f34-6f3b-4aee-9144-e5081f8eac59" />
+
 
 ### Example Flashcard
-![Flashcard Screenshot](screenshot-flashcard.png)
+<img width="108" height="195" alt="Screenshot_20260211-133459" src="https://github.com/user-attachments/assets/5bc7d942-894f-4e93-adff-9b07fae0b15c" />
+
 
 ### Verb Conjugations View
-![Verb Conjugations Screenshot](screenshot-conjugations.png)
+<img width="108" height="220" alt="Screenshot_20260211-133442" src="https://github.com/user-attachments/assets/6b97e6f1-8fa8-4cff-ad56-35591037ddb1" />
+
 
