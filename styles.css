@@ -51,6 +51,9 @@ a:follow {
     min-height: 350px;
     height: 580px;
     max-height: 90vh;
+    min-width: 320px;
+    max-width: 400px;
+    width: 100%;
     overflow: hidden;
     box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
     cursor: pointer;
@@ -81,11 +84,16 @@ a:follow {
 }
 
 .infinitive {
-    font-size: 3em;
+    font-size: clamp(2em, 6vw, 3em);
     font-weight: bold;
     color: #667eea;
     margin-bottom: 10px;
     text-align: center;
+    word-break: break-word;
+    hyphens: auto;
+    overflow-wrap: break-word;
+    max-width: 100%;
+    line-height: 1.1;
 }
 
 .translation {
