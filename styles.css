@@ -9,8 +9,9 @@ body {
     background: linear-gradient(135deg, #FFC500 0%, #C70318 100%);
     min-height: 100vh;
     display: flex;
+    flex-direction: column;
     justify-content: center;
-    /* align-items: center; */
+    align-items: center;
     padding: 20px;
 }
 
@@ -18,6 +19,11 @@ body {
     text-align: center;
     max-width: 600px;
     width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
 }
 
 h1 {
