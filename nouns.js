@@ -165,7 +165,7 @@ const spanishNouns = [
     { spanish: "la bolsa", english: "bag, purse" },
     { spanish: "el paraguas", english: "umbrella" },
     { spanish: "el teléfono", english: "telephone" },
-    { spanish: "el móvil", english: "cell phone" },
+    { spanish: "el móvil", english: "mobile phone" },
     { spanish: "el ordenador", english: "computer" },
     { spanish: "la computadora", english: "computer" },
     { spanish: "el correo", english: "mail" },

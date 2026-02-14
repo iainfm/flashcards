@@ -72,7 +72,7 @@ const spanishAdjectives = [
     { spanish: "amarillo", english: "yellow" },
     { spanish: "negro", english: "black" },
     { spanish: "blanco", english: "white" },
-    { spanish: "gris", english: "gray" },
+    { spanish: "gris", english: "grey" },
     { spanish: "marrón", english: "brown" },
     { spanish: "rosa", english: "pink" },
     { spanish: "naranja", english: "orange" },
